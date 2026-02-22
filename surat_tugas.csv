@@ -1,0 +1,608 @@
+id;nip;id_kegiatan;id_matriks;tugas;waktu;tanggal_surat;status;is_uangmuka;uangmuka;created_at;updated_at
+23;198207272006041005;8;38;Pengawasan Susenas;3;1501545600;4;\N;\N;7/27/2017 22:36;7/27/2017 22:49
+25;199301132017011001;9;115;Pemetaan Pendukung Kegiatan Pengelolaan Statistik Sektoral;1;1504828800;2;\N;\N;9/7/2017 22:44;9/7/2017 22:44
+26;198809302011011005;9;116;Pemetaan Pendukung Kegiatan Pengelolaan Statistik Sektoral;1;1504828800;2;\N;\N;9/7/2017 22:45;9/7/2017 22:45
+27;197001122009011008;20;117;Melakukan Pencacahan Survei Harga Pedesaan Bulan Oktober 2017;3;1507680000;2;\N;\N;10/4/2017 0:30;10/4/2017 0:44
+28;197001122009011008;21;118;Melakukan Pencacahan Survei Harga Perdagangan Besar Bulan Oktober 2017;1;1506988800;2;\N;\N;10/4/2017 0:31;10/4/2017 0:31
+29;197001122009011008;22;119;Melakukan Pencacahan SPDT-IHPB 2017;1;1508457600;2;\N;\N;10/4/2017 0:33;10/4/2017 0:33
+30;197001122009011008;23;120;Melakukan Pencacahan VHT-S Bulan Oktober 2017;1;1507075200;2;\N;\N;10/4/2017 0:34;10/4/2017 0:34
+31;197001122009011008;24;121;Melakukan Listing Industri Mikro Kecil Tahunan Tahun 2017;3;1508198400;2;\N;\N;10/4/2017 0:35;10/4/2017 0:58
+32;197001122009011008;25;122;Melakukan Pencacahan IMK Triwulanan 2017;3;1508198400;2;\N;\N;10/4/2017 0:37;10/4/2017 0:37
+33;197001122009011008;26;123;Melakukan Pencacahan SKKRT Bulan Oktober 2017;1;1507248000;2;\N;\N;10/4/2017 0:40;10/4/2017 0:40
+34;197001122009011008;27;124;Melakukan Pencacahan SLNPRT Triwulanan tahun 2017;1;1507161600;2;\N;\N;10/4/2017 0:42;10/4/2017 0:42
+35;197001122009011008;25;125;Melakukan Pencacahan Survei IMK Triwulanan Tahun 2017;1;1507852800;2;\N;\N;10/4/2017 0:50;10/4/2017 0:50
+36;198404262009082001;24;126;Melakukan Listing IMK Tahunan 2017;1;1507248000;2;\N;\N;10/5/2017 23:49;10/5/2017 23:49
+37;198809302011011005;20;129;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 19:38;12/3/2017 16:16
+38;199112272014102001;20;130;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 19:41;12/3/2017 16:16
+39;197001122009011008;20;131;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;\N;\N;\N;11/29/2017 19:42;12/3/2017 16:17
+40;197405162006041016;20;132;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 19:43;12/3/2017 16:17
+41;198304042009011011;20;133;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 19:43;12/3/2017 16:17
+42;198805082011012021;20;134;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 19:45;12/3/2017 16:18
+43;198602062011011012;20;135;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 19:46;12/3/2017 16:19
+44;198404262009082001;20;136;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 19:46;12/3/2017 16:20
+45;198609082009021001;20;137;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 19:49;12/3/2017 16:20
+46;199503042017012001;20;138;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 19:50;12/3/2017 16:20
+47;199405252017012001;20;139;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 19:51;12/3/2017 16:22
+48;199501022017012001;20;140;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 20:05;12/3/2017 16:22
+49;199407142017012001;20;141;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 22:06;12/3/2017 16:22
+50;196304071985021001;20;142;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 22:06;12/3/2017 16:23
+51;196206211984031002;20;143;Pengawasan updating/listing rumah tangga Survei Biaya Hidup 2018 (SBH 2018) di Kec. Pulau Laut Utara;1;1512000000;1;\N;\N;11/29/2017 22:07;12/3/2017 16:23
+55;199301132017011001;28;147;Pengawasan Pendataan SPDT-NTP 2017 di Kecamatan Kelumpang Hulu dan Kelumpang Barat;1;1506816000;1;\N;\N;12/3/2017 0:37;12/5/2017 18:57
+56;199301132017011001;28;148;Pengawasan Pencacahan SPDT-NTP 2017 di Kecamatan Kelumpang Selatan;2;1506816000;1;\N;\N;12/3/2017 0:38;12/5/2017 18:47
+57;199301132017011001;28;149;Pengawasan Pendataan SPDT-NTP 2017 di Kecamatan Sampanahan dan Kecamatan Sungai Durian;5;1506816000;1;\N;\N;12/3/2017 0:39;12/5/2017 19:18
+58;199301132017011001;28;150;Pengawasan Pencacahan SPDT-NTP 2017 di Kecamatan Kelumpang Hilir;1;1506816000;1;\N;\N;12/3/2017 0:41;12/5/2017 18:51
+59;199301132017011001;28;151;Pengawasan Pencacahan SPDT-NTP 2017 di Kecamatan Hampang;1;1506816000;1;\N;\N;12/5/2017 18:38;12/5/2017 18:38
+60;197001122009011008;13;51;Pengawasan Pendataan UMK dan UMB dalam Rangka SE 2016 Tahun 2017;1;1501545600;1;\N;\N;12/6/2017 21:04;12/6/2017 21:04
+61;197001122009011008;13;57;Pengawasan Pendataan UMK dan UMB dalam rangka SE 2016 Tahun 2017;3;1501545600;1;\N;\N;12/6/2017 21:08;12/6/2017 21:08
+63;197001122009011008;13;152;Pengawasan Pendataan UMK dan UMB dalam rangka SE 2016 Tahun 2017;2;1501545600;1;\N;\N;12/6/2017 21:17;12/6/2017 21:17
+66;197001122009011008;29;155;Pencacahan KCA Tahun 2018 di Kec. Kelumpang Hilir;1;1492387200;2;\N;\N;12/7/2017 0:17;4/3/2018 22:14
+67;197001122009011008;30;156;Melakukan Pengawasan Updating Rumah Tangga Susenas 2017 Semester 2 di Kec. Kelumpang Selatan, Kec. Kelumpang Hulu dan Kec. Pulau laut Timur;4;1503878400;\N;\N;\N;12/7/2017 1:23;12/7/2017 1:23
+68;197001122009011008;31;157;Melakukan Updating/Listing Ubinan Subround 1 2018 di Kecamatan Kelumpang Hilir;1;1512345600;\N;\N;\N;12/7/2017 16:09;12/7/2017 16:09
+69;197001122009011008;14;158;Melakukan Pencacahan Lapangan Survei Harga Perdangangan Besar (HPB) di Kecamatan Pulau Laut Utara;1;1512691200;1;\N;\N;12/7/2017 16:11;12/7/2017 16:11
+70;197001122009011008;17;159;Melakukan Survei Harga Produsen Perdesaan dan Survei Harga Konsumen Perdesaan 2017 di Kecamatan Kelumpang Hilir;3;1512691200;1;\N;\N;12/7/2017 16:20;12/7/2017 16:20
+71;198307172006041019;31;165;Melakukan Updating/Listing Ubinan Subround 1 2018 di Kecamatan Pamukan Utara;2;1512691200;\N;\N;\N;12/7/2017 18:53;12/7/2017 18:53
+72;198409192006041004;31;164;Melakukan Updating/Listing Ubinan Subround 1 2018 di Kecamatan Hampang;1;1512691200;\N;\N;\N;12/7/2017 18:54;12/7/2017 18:54
+73;196206211984031002;31;163;Melakukan Updating/Listing Ubinan Subround 1 2018 di Kecamatan Kelumpang Hulu;1;1512691200;\N;\N;\N;12/7/2017 18:54;12/7/2017 18:54
+74;198404262009082001;31;162;Melakukan Updating/Listing Ubinan Subround 1 2018 di Kecamatan Pulau Laut Tengah;5;1512691200;\N;\N;\N;12/7/2017 18:55;12/7/2017 18:55
+75;196304071985021001;31;161;Melakukan Updating/Listing Ubinan Subround 1 2018 di Kecamatan Pulau Laut Utara;2;1512691200;\N;\N;\N;12/7/2017 18:56;12/7/2017 18:56
+76;196209291982031002;31;160;Melakukan Updating/Listing Ubinan Subround 1 2018 di Kecamatan Pulau Laut Timur;1;1512691200;\N;\N;\N;12/7/2017 18:58;12/7/2017 18:58
+77;198602062011011012;31;166;Melakukan Updating/Listing Ubinan Subround 1 2018 di Kecamatan Pamukan Barat;2;1512691200;\N;\N;\N;12/7/2017 19:02;12/7/2017 19:02
+78;198503152010031001;31;167;Melakukan Updating/Listing Ubinan Subround 1 2018 di Kecamatan Sungai Durian;1;1512691200;1;\N;\N;12/11/2017 16:35;12/11/2017 16:35
+79;198805082011012021;31;168;Melakukan Updating/Listing Ubinan Subround 1 2018 di Kecamatan Sampanahan;1;1512691200;1;\N;\N;12/12/2017 0:30;12/12/2017 0:30
+80;199501022017012001;31;169;Melakukan Pengawasan Updating/Listing Ubinan Subround 1 2018 di Kecamatan Kelumpang Hilir;1;1512691200;\N;\N;\N;12/13/2017 0:53;1/2/2018 0:50
+81;198304042009011011;32;170;Perjalanan dinas dalam rangka melakukan Survei Ubinan subround 3;4;1513296000;1;\N;\N;12/20/2017 0:49;12/20/2017 0:49
+82;198809302011011005;14;171;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;1;\N;\N;1/1/2018 17:11;1/1/2018 17:13
+83;198304042009011011;33;172;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;1;\N;\N;1/1/2018 17:12;1/1/2018 17:48
+84;197001122009011008;14;173;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;\N;\N;\N;1/1/2018 17:14;1/1/2018 17:14
+87;198602062011011012;33;176;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;\N;\N;\N;1/1/2018 17:16;1/1/2018 17:16
+88;199407142017012001;33;177;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;2;1514851200;2;\N;\N;1/1/2018 17:17;2/11/2018 18:59
+89;198609082009021001;33;178;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;\N;\N;\N;1/1/2018 17:18;1/1/2018 17:18
+90;199405252017012001;33;179;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;\N;\N;\N;1/1/2018 17:19;1/1/2018 17:19
+91;196304071985021001;33;180;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;\N;\N;\N;1/1/2018 17:19;1/1/2018 17:19
+92;198805082011012021;33;181;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;\N;\N;\N;1/1/2018 17:19;1/1/2018 17:19
+93;198404262009082001;33;182;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;2;1514851200;2;\N;\N;1/1/2018 17:20;3/5/2018 23:23
+94;196206211984031002;33;183;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;\N;\N;\N;1/1/2018 17:20;1/1/2018 17:20
+95;199501022017012001;33;184;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;\N;\N;\N;1/1/2018 17:21;1/1/2018 17:21
+96;198809302011011005;34;185;Melakukan Pencacahan Survei Khusus Triwulanan Neraca Produksi 2018 Tahap 1 di Kecamatan Pulau Laut Utara;366;1514851200;\N;\N;\N;1/1/2018 19:34;1/1/2018 19:34
+97;199011162014101001;34;186;Melakukan Pencacahan Survei Khusus Triwulanan Neraca Produksi 2018 Tahap 1 di Kecamatan Pulau Laut Utara;1;1514851200;\N;\N;\N;1/1/2018 19:34;1/1/2018 19:34
+98;196006081986031004;32;187;Melakukan pengawasan survei ubinan tanaman pangan subround 3;1;1512432000;\N;\N;\N;1/2/2018 0:33;1/2/2018 0:33
+99;196006081986031004;32;188;Melakukan pengawasan survei ubinan tanaman pangan subround 3;1;1512086400;\N;\N;\N;1/2/2018 0:35;1/2/2018 0:35
+100;199501022017012001;31;189;Melakukan pengawasan updating/listing survei ubinan tanaman pangan subround 1 2018;1;1513209600;\N;\N;\N;1/2/2018 0:41;1/2/2018 0:41
+101;199501022017012001;31;190;Melakukan pengawasan updating/listing survei ubinan tanaman pangan subround 1 2018;1;1512691200;\N;\N;\N;1/2/2018 0:48;1/2/2018 0:48
+102;198307172006041019;35;191;Melakukan Pencacahan Survei Perkebunan Triwulan 4 Tahun 2017 di Kecamatan Pamukan Utara;3;1515110400;\N;\N;\N;1/7/2018 17:19;1/10/2018 21:54
+103;198307172006041019;36;192;Melakukan Pencacahan Survei Industri Bulanan di Kecamatan Pamukan Utara;1;1515110400;\N;\N;\N;1/7/2018 17:20;1/7/2018 17:20
+104;197001122009011008;15;194;Pencacahan VHT-S Bulan Januari di Kec. Pulau Laut Utara;1;1515110400;2;\N;\N;1/7/2018 19:14;1/7/2018 19:35
+105;197001122009011008;17;195;Pencacahan HD dan HKD Bulan Januari di Kecamatan Kelumpang Hilir;3;1515110400;2;\N;\N;1/7/2018 19:49;1/7/2018 19:50
+106;197001122009011008;14;196;Pencacahan SHPB Bulan Januari di Kec. Pulau Laut Utara;1;1515110400;2;\N;\N;1/7/2018 19:52;1/7/2018 19:52
+107;199011162014101001;39;197;Internalisasi Survei Harga Konsumen (SHK) dan Survei Biaya Hidup (SBH) 2018 di Banjarbaru;3;1515456000;2;\N;\N;1/8/2018 17:33;1/8/2018 17:33
+108;198409192006041004;40;200;Pelaksanaan Updating Usaha Jasa Akomodasi 2018 di Kec. Pulau Laut Utara;1;1515456000;2;\N;\N;1/9/2018 16:44;1/9/2018 16:44
+109;197405162006041016;40;202;Pelaksanaan Updating Usaha Jasa Akomodasi 2018 di Kecamatan Pulau Laut Utara;1;1515456000;\N;\N;\N;1/9/2018 22:49;1/9/2018 22:49
+110;196206211984031002;40;198;Pelaksanaan Updating Usaha Jasa Akomodasi 2018 di Kecamatan Kelumpang Hulu;1;1515456000;\N;\N;\N;1/9/2018 22:54;1/9/2018 23:08
+111;198503152010031001;40;199;Pelaksanaan Updating Usaha Jasa Akomodasi 2018 di Kecamatan Pulau Laut Barat;1;1515456000;\N;\N;\N;1/9/2018 22:56;1/9/2018 23:03
+112;197001122009011008;40;201;Pelaksanaan Updating Usaha Jasa Akomodasi 2018 di Kecamatan Kelumpang Hilir;1;1515456000;\N;\N;\N;1/9/2018 23:12;1/9/2018 23:14
+113;196304071985021001;40;203;Pelaksanaan Updating Usaha Jasa Akomodasi 2018 di Kecamatan Pulau Laut Utara;1;1515456000;2;\N;\N;1/10/2018 15:59;1/10/2018 15:59
+114;198307172006041019;40;207;Pelaksanaan Updating Usaha Jasa Akomodasi Tahun 2018 di Kec. Kelumpang Barat dan Kec. Pamukan Utara;2;1515456000;\N;\N;\N;1/10/2018 20:00;1/10/2018 20:00
+115;198307172006041019;35;204;Melakukan Pencacahan Survei Perkebunan Triwulan 4 Tahun 2017 di Kecamatan Pamukan Utara;2;1514851200;\N;\N;\N;1/10/2018 21:51;1/10/2018 21:55
+116;198307172006041019;17;205;Melakukan Pencacahan Survei Harga Perdesaan Bulanan 2018;1;1515110400;\N;\N;\N;1/10/2018 21:58;1/10/2018 21:58
+117;198503152010031001;43;210;Melakukan Pencacahan Survei Ubinan Tanaman Pangan Subround 1 2018;1;1515628800;2;\N;\N;1/11/2018 0:21;8/2/2018 22:12
+118;196006081986031004;43;211;Pengawasan Pelaksanaan Pencacahan Survei Ubinan Tanaman Pangan Subround 1 2018 di Kecamatan Hampang;1;1515024000;\N;\N;\N;1/11/2018 0:26;1/11/2018 0:26
+119;196206211984031002;17;212;Pencacahan HD dan HKD Bulan Januari di Kecamatan Kelumpang Hilir;2;1515110400;2;\N;\N;1/14/2018 18:11;1/14/2018 18:11
+120;196206211984031002;31;213;Melakukan Pencacahan Survei Ubinan Tanaman Pangan Subround 1 2018 di Kecamatan Kelumpang Hulu;1;1515024000;\N;\N;\N;1/14/2018 18:11;1/14/2018 18:19
+121;196006081986031004;44;214;Melakukan Pencacahan Laporan Pelabuhan Perikanan Triwulan 4 Tahun 2017 di Kecamatan Pulau Laut Utara;1;1515974400;\N;\N;\N;1/14/2018 20:04;1/18/2018 17:58
+123;199503042017012001;47;218;Pengumpulan Data Sekunder PDRB Triwukan 4 2017 di Kecamatan Pulau Laut Utara;31;1516060800;2;\N;\N;1/15/2018 17:47;1/15/2018 21:55
+124;198304042009011011;40;223;Pelaksanaan Updating Usaha Jasa Akomodasi 2018 di Kec. Kelumpang Tengah;1;1515456000;2;\N;\N;1/17/2018 17:43;1/17/2018 17:43
+125;196507241994011001;45;226;Melakukan Pengawasan Pencacahan Laporan Pelabuhan Perikanan Triwulan 4 Tahun 2017 di Kecamatan Pulau Laut Utara;1;1515974400;\N;\N;\N;1/21/2018 18:06;1/21/2018 18:08
+126;196507241994011001;38;225;Melakukan Pengawasan Pencacahan Survei Pemotongan Ternak Triwulan 4 Tahun 2017 di Kecamatan Pulau Laut Utara;1;1516579200;\N;\N;\N;1/21/2018 18:10;1/21/2018 18:10
+127;196006081986031004;38;224;Melakukan Pencacahan Survei Pemotongan Ternak Triwulan 4 Tahun 2017 di Kecamatan Pulau Laut Utara;1;1516579200;\N;\N;\N;1/21/2018 18:11;1/21/2018 18:11
+128;198307172006041019;42;208;Melakukan Pengawasan Pendataan Survei Kerangka Sampel Area (KSA) 2018;2;1516579200;\N;\N;\N;1/21/2018 22:21;1/21/2018 22:21
+129;198307172006041019;42;209;Melakukan Pengawasan Pendataan Survei Kerangka Sampel Area (KSA) 2018;3;1516579200;\N;\N;\N;1/21/2018 22:22;1/21/2018 22:22
+130;199301132017011001;42;228;Melakukan Pengawasan Pendataan Survei Kerangka Sampel Area (KSA) 2018;2;1516579200;\N;\N;\N;1/21/2018 22:48;1/21/2018 22:48
+131;199301132017011001;42;229;Melakukan Pengawasan Pendataan Survei Kerangka Sampel Area (KSA) 2018;2;1516579200;\N;\N;\N;1/21/2018 22:50;1/21/2018 22:50
+133;198602062011011012;40;231;Pelaksanaan Updating Usaha Jasa Akomodasi 2018 di Kecamatan Pamukan Barat;1;1515456000;2;\N;\N;1/22/2018 16:04;1/22/2018 16:04
+134;198602062011011012;33;232;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;2;1514851200;2;\N;\N;1/22/2018 16:11;1/22/2018 16:11
+135;198503152010031001;29;233;Pelaksanaan Updating Usaha Jasa Akomodasi 2018 di Kecamatan Sungai Durian;1;1515456000;2;\N;\N;1/22/2018 17:05;1/22/2018 17:05
+136;196304071985021001;42;234;Melakukan Pengawasan Pendataan Survei Kerangka Sampel Area (KSA) 2018 di Kecamatan Pulau Laut Tengah;1;1516579200;\N;\N;\N;1/22/2018 17:14;1/22/2018 17:14
+137;196304071985021001;42;235;Melakukan Pengawasan Pendataan Survei Kerangka Sampel Area (KSA) 2018 di Kecamatan Pulau Laut Utara;1;1516579200;\N;\N;\N;1/22/2018 17:15;1/22/2018 17:15
+138;196304071985021001;42;237;Melakukan Pengawasan Pendataan Survei Kerangka Sampel Area (KSA) 2018 di Kecamatan Pulau Laut Timur;1;1516579200;\N;\N;\N;1/22/2018 17:21;1/22/2018 17:21
+139;198809302011011005;42;238;Melakukan Pengawasan Pendataan Survei Kerangka Sampel Area (KSA) 2018 di Kecamatan Pulau Laut Tj. Selayar;1;1516579200;\N;\N;\N;1/22/2018 22:18;2/11/2018 17:28
+140;198809302011011005;42;239;Melakukan Pengawasan Pendataan Survei Kerangka Sampel Area (KSA) 2018 di Kec. P. Laut Barat, P. Laut Selatan, dan P. Laut Kepulauan;3;1516579200;\N;\N;\N;1/22/2018 22:19;2/11/2018 17:27
+141;198602062011011012;33;240;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;2;\N;\N;1/22/2018 22:39;1/22/2018 22:39
+142;197001122009011008;33;241;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;1;1514851200;2;\N;\N;1/22/2018 22:41;1/22/2018 22:41
+143;197001122009011008;33;242;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;2;1514851200;2;\N;\N;1/22/2018 22:42;1/22/2018 22:42
+144;198602062011011012;42;243;Melakukan Pendataan Survei Kerangka Sampel Area (KSA) 2018 di Kecamatan Pamukan Barat;1;1516579200;\N;\N;\N;1/23/2018 22:09;1/23/2018 22:09
+145;198307172006041019;43;253;Melakukan Pencacahan Survei Ubinan Tanaman Pangan Subround 1 2018 di Kecamatan Kelumpang Barat;1;1515542400;\N;\N;\N;2/4/2018 15:52;2/13/2018 22:30
+146;197405162006041016;33;254;Melakukan pengawasan pencacahan SBH bulan Januari di Kec. Pulau Laut Utara;2;1514851200;2;\N;\N;2/4/2018 17:48;3/7/2018 16:30
+147;197001122009011008;54;260;Melakukan pencacahan Survei Angkatan Kerja Nasional 2018 di Kecamatan Kelumpang Hilir;3;1518134400;1;\N;\N;2/9/2018 0:37;3/19/2018 0:21
+148;197001122009011008;52;261;Melaksanakan Pencacahan Survei Harga Produksi Perdesaan dan Harga Konsumsi Perdesaan di Kecamatan Kelumpang Hilir;2;1517529600;2;\N;\N;2/9/2018 0:49;2/9/2018 0:49
+149;198304042009011011;54;262;Melaksanakan Pencacahan Survei Angkatan Kerja Nasional Semesteran 2018 di Kecamatan Pulau Laut Utara;2;1518393600;\N;\N;\N;2/10/2018 18:04;2/10/2018 18:04
+150;197405162006041016;54;263;Melaksanakan Pencacahan Survei Angkatan Kerja Nasional Semesteran 2018 di Kecamatan Pulau Laut Utara;2;1518393600;\N;\N;\N;2/10/2018 18:05;2/10/2018 18:05
+151;197405162006041016;54;264;Melaksanakan Pencacahan Survei Angkatan Kerja Nasional Semesteran 2018 di Kecamatan Pulau Laut Utara;2;1518393600;\N;\N;\N;2/10/2018 18:06;2/10/2018 18:06
+152;198304042009011011;54;265;Melaksanakan Pencacahan Survei Angkatan Kerja Nasional Semesteran 2018 di Kecamatan Kelumpang Tengah;2;1518393600;\N;\N;\N;2/10/2018 18:07;2/10/2018 18:07
+153;198304042009011011;55;266;Melaksanakan Pencacahan Survei Pekerja Informal 2018 di Kecamatan Pulau Laut Utara;2;1518393600;\N;\N;\N;2/10/2018 18:53;2/10/2018 18:53
+154;197405162006041016;55;267;Melaksanakan Pencacahan Survei Pekerja Informal 2018 di Kecamatan Pulau Laut Utara;2;1518393600;\N;\N;\N;2/10/2018 18:55;2/10/2018 18:55
+155;197405162006041016;55;268;Melaksanakan Pencacahan Survei Pekerja Informal 2018 di Kecamatan Pulau Laut Utara;2;1518393600;\N;\N;\N;2/10/2018 18:56;2/10/2018 18:56
+156;198304042009011011;55;269;Melaksanakan Pencacahan Survei Pekerja Informal 2018 di Kecamatan Kelumpang Tengah;2;1518393600;\N;\N;\N;2/10/2018 18:57;2/10/2018 18:57
+157;199407142017012001;33;219;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;2;1514851200;2;\N;\N;2/11/2018 19:03;2/11/2018 19:03
+158;198307172006041019;52;270;Pencacahan Survei HD dan HKD Bulan Februari di Kec. Pamukan Utara;1;1517529600;2;\N;\N;2/12/2018 1:49;2/12/2018 1:49
+159;197405162006041016;50;256;Melaksanakan Pencacahan Survei Harga Perdagangan Besar Bulan Februari;1;1517529600;2;\N;\N;2/12/2018 15:55;2/12/2018 15:55
+160;198602062011011012;51;271;Melakukan pencacahan VHT-S Bulan Februari;1;1517529600;2;\N;\N;2/12/2018 16:14;2/12/2018 16:14
+161;199011162014101001;51;273;Melakukan Pengawasan Pencacahan Survei VHT-S Bulan Februari;1;1517529600;2;\N;\N;2/12/2018 16:15;2/12/2018 16:15
+162;198602062011011012;50;272;Melakukan Pencacahan Survei Harga Perdagangan Besar Bulan Februari;1;1517529600;2;\N;\N;2/12/2018 16:16;2/12/2018 16:16
+163;198307172006041019;43;275;Pencacahan Survei Sampel Ubinan Subround 1 2018 di Kec. Kelumpang Barat dan Pamukan Utara;2;1517788800;1;\N;\N;2/14/2018 1:01;2/14/2018 1:01
+164;198307172006041019;57;276;Pencacahan Survei Industri Besar Sedang Bulanan Tahun 2018 di Kec. Pamukan Utara;1;1517443200;1;\N;\N;2/14/2018 1:11;2/14/2018 1:11
+165;198609082009021001;58;282;Melakukan Pengawasan Sakernas di Kecamatan Pulau Laut Utara;1;1517961600;1;\N;\N;2/14/2018 17:30;2/15/2018 0:47
+166;196206211984031002;60;303;Melakukan Pengawasan Updating Rumah Tangga Susenas 2018 di Kecamatan Kelumpang Hulu;4;1518652800;\N;\N;\N;2/15/2018 0:21;2/15/2018 0:21
+167;198602062011011012;60;299;Melakukan Pengawasan Updating Rumah Tangga Susenas 2018 di Kecamatan Sungai Durian dan Kecamatan Pamukan Barat;3;1518652800;\N;\N;\N;2/15/2018 0:23;2/15/2018 0:23
+168;198805082011012021;60;298;Melakukan Pengawasan Updating Rumah Tangga Susenas 2018 di Kecamatan Sampanahan dan Kecamatan Kelumpang Barat;5;1518652800;\N;\N;\N;2/15/2018 0:25;2/15/2018 0:25
+169;196209291982031002;60;300;Melakukan Pengawasan Updating Rumah Tangga Susenas 2018 di Kec. P. Laut Timur, P. Laut Kepulauan dan P. Laut Selatan ;5;1518652800;\N;\N;\N;2/15/2018 0:26;2/15/2018 0:30
+170;198409192006041004;60;301;Melakukan Pengawasan Updating Rumah Tangga Susenas 2018 di Kecamatan Hampang dan Kecamatan Pulau Laut Utara;4;1518652800;\N;\N;\N;2/15/2018 0:27;2/15/2018 0:27
+171;198609082009021001;58;283;Melakukan Pengawasan Pencacahan Sakernas 2018 di Kecamatan Kelumpang Hilir;1;1517961600;\N;\N;\N;2/15/2018 0:48;2/15/2018 1:38
+172;198609082009021001;58;284;Melakukan Pengawasan Pencacahan Sakernas 2018 di Kecamatan Kelumpang Hilir;1;1517961600;\N;\N;\N;2/15/2018 0:49;2/15/2018 0:49
+173;198609082009021001;58;288;Melakukan Pengawasan Pencacahan Sakernas 2018 di Kecamatan;;1517961600;;;;;
+"Pulau Laut Selatan""";1;2/7/2018;\N;\N;\N;1517961600;2/15/2018 0:50;;;;
+174;198609082009021001;58;289;Melakukan Pengawasan Pencacahan Sakernas 2018 di Kecamatan;;1517961600;;;;;
+"Sampanahan""";1;2/7/2018;\N;\N;\N;1517961600;2/15/2018 0:52;;;;
+175;198609082009021001;58;290;Melakukan Pengawasan Pencacahan Sakernas 2018 di Kecamatan;;1517961600;;;;;
+"Kelumpang Tengah""";1;2/7/2018;\N;\N;\N;1517961600;2/15/2018 0:58;;;;
+176;198609082009021001;59;285;Melakukan Pengawasan Pencacahan SPIN 2018 di Kecamatan;;1517961600;;;;;
+"Pulau Luat Utara""";1;2/7/2018;\N;\N;\N;1517961600;2/15/2018 1:34;;;;
+177;198609082009021001;59;286;Melakukan Pengawasan Pencacahan SPIN 2018 di Kecamatan;;1517961600;;;;;
+"Kelumpang Hilir""";1;2/7/2018;\N;\N;\N;1517961600;2/15/2018 1:01;;;;
+178;198609082009021001;59;287;Melakukan Pengawasan Pencacahan SPIN 2018 di Kecamatan;;1517961600;;;;;
+"Kelumpang Hilir""";1;2/7/2018;\N;\N;\N;1517961600;2/15/2018 1:02;;;;
+179;198609082009021001;59;291;Melakukan Pengawasan Pencacahan SPIN 2018 di Kecamatan;;1517961600;;;;;
+"Pulau Laut Selatan""";1;2/7/2018;\N;\N;\N;1518652800;2/15/2018 1:09;;;;
+180;198609082009021001;59;292;Melakukan Pengawasan Pencacahan SPIN 2018 di Kecamatan;;1518998400;;;;;
+"Sampanahan""";1;2/7/2018;\N;\N;\N;1518652800;2/15/2018 1:35;;;;
+181;198609082009021001;59;293;Melakukan Pengawasan Pencacahan SPIN 2018 di Kecamatan Kelumpang Tengah;1;1517529600;\N;\N;\N;2/15/2018 1:11;2/15/2018 1:11
+182;198805082011012021;54;294;Melakukan Pencacahan Sakernas 2018 di Kecamatan Sampanahan;3;1518998400;\N;\N;\N;2/15/2018 1:14;2/15/2018 1:16
+183;198805082011012021;54;295;Melakukan Pencacahan Sakernas 2018 di Kecamatan Pulau Laut Utara;3;1518393600;\N;\N;\N;2/15/2018 1:15;2/15/2018 1:17
+184;198805082011012021;55;296;Melakukan Pencacahan SPIN 2018 di Kecamatan Sampanahan;1;1518048000;\N;\N;\N;2/15/2018 1:16;2/15/2018 1:23
+185;198805082011012021;55;297;Melakukan Pencacahan SPIN 2018 di Kecamatan Pulau Laut Utara;1;0;\N;\N;\N;2/15/2018 1:17;2/15/2018 1:17
+186;199301132017011001;60;304;Melakukan Pengawasan Updating Rumah Tangga Susenas 2018 di;;1517961600;;;;;
+"Kecamatan Pulau Sebuku""";2;2/15/2018;\N;\N;\N;1517961600;2/15/2018 1:45;;;;
+187;199011162014101001;61;305;Melakukan Pengawasan Updating Blok Sensus SBH 2018 Triwulan II di Kec. Pulau Laut UTara;1;1517961600;2;\N;\N;2/18/2018 17:32;2/18/2018 17:32
+188;197001122009011008;60;302;Melakukan Pengawasan Updating Rumah Tangga SUSENAS 2018 di Kecamatan Kelumpang Hilir dan Kecamatan Kelumpang Selatan;6;1517961600;\N;\N;\N;2/19/2018 18:38;2/19/2018 18:39
+189;199405252017012001;53;306;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;4;1517961600;1;\N;\N;2/19/2018 21:45;2/19/2018 21:45
+190;199405252017012001;61;317;Melakukan Pengawasan Updating Blok Sensus Survei Biaya Hidup Triwulan II di Kecamatan Pulau Laut Utara;1;1517961600;1;\N;\N;2/19/2018 21:53;2/19/2018 21:53
+191;199405252017012001;62;319;Mengikuti Pelatihan Pengolahan Survei Angkatan Kerja Nasional (Sakernas) Semesteran dan Survei Pekerja Informal 2018 di Kota Banjar Baru;3;1517961600;1;\N;\N;2/19/2018 21:58;2/19/2018 21:58
+192;199405252017012001;5;307;Mengikuti Pelatihan Survei Sosial dan Ekonomi Nasional Maret 2018;4;1517961600;\N;\N;\N;2/19/2018 22:02;2/19/2018 22:02
+193;199405252017012001;60;312;Melakukan Pengawasan Updating Blok Sensus Survei Sosial dan Ekonomi Nasional Maret 2018;4;1517529600;\N;\N;\N;2/19/2018 22:06;2/26/2018 18:22
+194;199405252017012001;58;308;Melakukan Pengawasan Pencacahan Survei Angkatan Kerja Nasional Semesteran 2018 di Kec Pulau Laut Barat;1;1519171200;\N;\N;\N;2/19/2018 22:13;2/19/2018 22:13
+195;199405252017012001;58;310;Melakukan Pengawasan Pencacahan Survei Angkatan Kerja Nasional Semesteran 2018 di Kec Pulau Laut Utara;1;1518393600;\N;\N;\N;2/19/2018 22:42;2/19/2018 22:42
+196;199405252017012001;58;313;Melakukan Pengawasan Pencacahan Survei Angkatan Kerja Nasional Semesteran 2018 di Kec Pulau Laut Utara;1;1519171200;\N;\N;\N;2/19/2018 22:43;2/19/2018 22:43
+197;199405252017012001;58;315;Melakukan Pengawasan Pencacahan Survei Angkatan Kerja Nasional Semesteran 2018 di Kec Pulau Laut Utara;1;1519171200;\N;\N;\N;2/19/2018 22:44;2/19/2018 22:44
+198;199405252017012001;59;316;Melakukan Pengawasan Pencacahan Survei Pekerja Informal 2018 di Kec Pulau Laut Utara;1;1519171200;1;\N;\N;2/19/2018 22:48;2/19/2018 22:48
+199;199405252017012001;59;309;Melakukan Pengawasan Pencacahan Survei Pekerja Informal 2018 di Kec Pulau Laut Barat;1;1519171200;\N;\N;\N;2/19/2018 22:50;2/19/2018 22:50
+200;199405252017012001;59;311;Melakukan Pengawasan Pencacahan Survei Pekerja Informal 2018 di Kec Pulau Laut Utara;1;1517529600;\N;\N;\N;2/19/2018 22:51;2/19/2018 22:51
+201;199405252017012001;59;314;Melakukan Pengawasan Pencacahan Survei Pekerja Informal 2018 di Kec Pulau Laut Utara;1;1517529600;\N;\N;\N;2/19/2018 22:53;2/19/2018 22:53
+202;199405252017012001;33;220;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;2;1514851200;\N;\N;\N;2/20/2018 0:38;2/20/2018 0:38
+203;198602062011011012;63;326;Melakukan Pendataan Survei Kerangka Sampel Area (KSA) 2018 di Kecamatan Pamukan Barat;1;1517529600;\N;\N;\N;2/20/2018 22:43;2/20/2018 22:43
+204;198304042009011011;60;325;Melakukan Pengawasan Updating Survei Sosial dan Ekonomi Nasional Maret 2018 di Kec Kelumpang Tengah dan Pulau Laut Utara;3;1517529600;1;\N;\N;2/20/2018 22:43;2/20/2018 22:43
+205;198307172006041019;63;328;Melakukan Pengawasan Pendataan Survei Kerangka Sampel Area (KSA) 2018 di Kecamatan Sampanahan, Sungai Durian, dan Pamukan Utara;3;1517529600;\N;\N;\N;2/20/2018 22:44;2/20/2018 22:44
+206;198409192006041004;64;329;Pengumpulan data Kecamatan Dalam Angka (KCA) Tahun 2018;1;1517529600;1;\N;\N;2/20/2018 23:46;2/20/2018 23:46
+207;198809302011011005;63;330;Pengawasan Pendataan Survei Kerangka Sampel Area (KSA) 2018 di Kecamatan Pulau Laut Barat dan Kecamatan Pulau Laut Selatan;2;1517529600;1;\N;\N;2/21/2018 2:09;2/21/2018 2:09
+208;199301132017011001;63;331;Melakukan Pengawasan Kabupaten Pelaksanaan Survei KSA Februari 2018;1;1517529600;\N;\N;\N;2/23/2018 15:25;5/6/2018 23:18
+209;198304042009011011;53;333;Melakukan pengawasan pencacahan SBH Bulan Februari;4;1517529600;2;\N;\N;2/25/2018 22:56;2/25/2018 22:56
+210;198304042009011011;61;327;Melakukan pengawasan updating SBH TW II;1;1517529600;2;\N;\N;2/25/2018 22:58;2/25/2018 22:58
+211;198304042009011011;33;332;Melakukan pengawasan SBH bulan Januari di Pulau Laut Utara;2;1517529600;2;\N;\N;2/25/2018 23:05;2/25/2018 23:05
+212;197001122009011008;53;334;Melakukan pengawasan pencacahan SBH bulan Januari;2;1517529600;2;\N;\N;2/26/2018 0:28;2/26/2018 0:28
+213;197001122009011008;53;335;Melakukan pengawasan pencacahan SBH bulan Januari;2;1517529600;2;\N;\N;2/26/2018 0:31;2/26/2018 0:31
+214;197001122009011008;61;336;Melakukan pengawasan updating SBH TW II;1;1519603200;2;\N;\N;2/26/2018 0:53;2/26/2018 0:53
+215;197001122009011008;50;337;Melakukan pencacahan HPB bulan Februari;1;1514851200;2;\N;\N;2/26/2018 0:55;2/26/2018 0:55
+216;197405162006041016;53;255;Melakukan pengawasan SBH bulan Februari;2;1517529600;2;\N;\N;2/26/2018 0:57;2/26/2018 0:57
+217;197405162006041016;53;257;Melakukan pengawasan SBH bulan Februari;2;1514851200;2;\N;\N;2/26/2018 0:59;2/26/2018 0:59
+218;197405162006041016;61;338;Melakukan pengawasan updating SBH Triwulan II;1;1514851200;2;\N;\N;2/26/2018 1:03;2/26/2018 1:03
+219;198602062011011012;53;274;Melaksanakan pengawasan pencacahan SBH 2018 bulan Februari di Kec. Pulau Laut Utara;2;1514851200;2;\N;\N;2/26/2018 16:13;2/26/2018 16:13
+220;198602062011011012;53;339;Melaksanakan pengawasan pencacahan SBH 2018 bulan Februari di Kec. Pulau Laut Utara;2;1514851200;2;\N;\N;2/26/2018 16:14;2/26/2018 16:14
+221;198602062011011012;61;340;Melaksanakan pengawasan updating listing SBH 2018 TW II di Kec. Pulau Laut Utara;1;1518652800;2;\N;\N;2/26/2018 16:15;2/26/2018 16:15
+222;198805082011012021;61;341;Melaksanakan pengawasan updating listing  SBH 2018 TW II di Kec. Pulau Laut Utara;1;1518652800;2;\N;\N;2/26/2018 16:35;2/26/2018 16:35
+223;197503111996122001;63;342;Melakukan Pengawasan Pencacahan Survei KSA 2018 di Kecamatan Kelumpang Utara ;1;1518652800;\N;\N;\N;2/26/2018 16:46;2/26/2018 16:46
+224;199011162014101001;33;343;Melaksanakan pengawasan pencacahan SBH 2018 bulan Januari di Kec. Pulau Laut Utara;2;1518652800;2;\N;\N;2/26/2018 17:37;2/26/2018 17:37
+225;199011162014101001;33;344;Melaksanakan pengawasan pencacahan SBH 2018 bulan Januari di Kec. Pulau Laut Utara;2;1519171200;2;\N;\N;2/26/2018 17:38;2/26/2018 17:38
+226;198809302011011005;33;345;Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 Di Kecamatan Pulau Laut Utara;2;1519948800;1;\N;\N;2/26/2018 19:18;2/26/2018 19:18
+227;198809302011011005;53;346;Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;2;1519948800;1;\N;\N;2/26/2018 19:23;2/26/2018 19:23
+228;198809302011011005;53;347;Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;2;1519948800;1;\N;\N;2/26/2018 19:27;2/26/2018 19:27
+229;198809302011011005;61;348;Pengawasan Updating Listing Survei Biaya Hidup 2018 Triwulan 2 di Kecamatan Pulau Laut Utara;1;1521417600;1;\N;\N;2/26/2018 19:29;2/26/2018 19:29
+230;197503111996122001;63;351;Melakukan Pengawasan Kabupaten Pelaksanaan Survei KSA Februari 2018;1;1519603200;\N;\N;\N;2/28/2018 0:45;2/28/2018 0:45
+231;199301132017011001;60;352;Melakukan Pengawasan Updating Rumah Tangga Susenas 2018 di Kecamatan Pulau Laut Tj Selayar;1;1519603200;\N;\N;\N;2/28/2018 5:02;2/28/2018 5:08
+232;199301132017011001;60;353;Melakukan Pengawasan Updating Rumah Tangga Susenas 2018 di Kecamatan Pulau Laut Barat;3;1519948800;\N;\N;\N;2/28/2018 5:03;2/28/2018 5:09
+233;199301132017011001;60;354;Melakukan Pengawasan Updating Rumah Tangga Susenas 2018 di Kecamatan Pulau Laut Tj Selayar;1;1519862400;\N;\N;\N;2/28/2018 5:07;2/28/2018 5:07
+234;199301132017011001;63;355;Melakukan Pengawasan Pencacahan KSA 2018 Februari 2018 di Kecamatan Hampang;1;1517788800;\N;\N;\N;2/28/2018 5:15;5/6/2018 23:19
+235;198404262009082001;53;359;Melakukan pengawasan SBH 2018 Bulan Februari di Kec. Pulau Laut Utara;1;1517788800;2;\N;\N;2/28/2018 18:01;2/28/2018 18:01
+236;198404262009082001;53;360;Melakukan pengawasan SBH 2018 Bulan Februari di Kec. Pulau Laut Utara;1;1519862400;2;\N;\N;2/28/2018 18:01;2/28/2018 18:01
+237;198404262009082001;53;361;Melakukan pengawasan SBH 2018 Bulan Februari di Kec. Pulau Laut Utara;2;1519862400;2;\N;\N;2/28/2018 18:02;2/28/2018 18:02
+238;198404262009082001;61;362;Melakukan pengawasan updating listing SBH 2018 TW II di Kec. Pulau Laut Utara;1;1519862400;2;\N;\N;2/28/2018 18:04;2/28/2018 18:04
+240;198307172006041019;50;364;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional (Susenas) Maret 2018 di Kecamatan Sungai Durian;3;1519862400;1;\N;\N;3/1/2018 16:16;3/1/2018 16:20
+241;198307172006041019;50;363;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional (Susenas) Maret 2018 di Kecamatan Pamukan Utara;2;1519862400;1;\N;\N;3/1/2018 16:18;3/1/2018 16:20
+242;198307172006041019;69;367;Melakukan Pencacahan Survei Perusahaan Perkebunan Tahun 2018 di Kecamatan Pamukan Utara;3;1519862400;\N;\N;\N;3/1/2018 17:03;3/1/2018 17:03
+243;198307172006041019;69;368;Melakukan Pencacahan Survei Perusahaan Perkebunan Tahun 2018 di Kecamatan Pamukan Utara;2;1519862400;\N;\N;\N;3/1/2018 17:06;3/1/2018 17:06
+244;198404262009082001;71;379;Melaksanakan pencacahan survei HD / HKD Bulan Februari di Kec. Pulau Laut Tengah;1;1519862400;2;\N;\N;3/1/2018 18:30;3/1/2018 18:30
+245;196206211984031002;71;380;Melaksanakan pencacahan survei HD / HKD Bulan Februari di Kec. Kelumpang Hulu;2;1519862400;2;\N;\N;3/1/2018 18:33;3/1/2018 18:33
+246;196206211984031002;70;371;Melaksanakan pencacahan survei HD / HKD Bulan Maret di Kec.  Kelumpang Hulu;2;1519862400;2;\N;\N;3/1/2018 19:21;3/1/2018 19:21
+247;198409192006041004;67;370;Melaksanakan pencacahan SHPB bulan Maret di Kec. Pulau Laut Utara;1;1519862400;2;\N;\N;3/1/2018 19:23;3/1/2018 19:23
+248;197405162006041016;67;372;Melaksanakan pencacahan SHPB bulan Maret di Kec. Pulau Laut Utara;1;1519862400;2;\N;\N;3/1/2018 19:24;3/1/2018 19:24
+249;198409192006041004;68;369;Melaksanakan pencacahan VHT-S bulan Maret di Kec. Pulau Laut Utara;1;1519862400;2;\N;\N;3/1/2018 19:30;3/1/2018 19:30
+250;199011162014101001;66;373;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1519862400;2;\N;\N;3/1/2018 19:31;3/1/2018 19:31
+251;199011162014101001;66;374;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1519862400;2;\N;\N;3/1/2018 19:31;3/1/2018 19:31
+252;199011162014101001;66;375;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1519948800;2;\N;\N;3/1/2018 19:32;3/1/2018 19:32
+253;199011162014101001;66;376;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1519603200;2;\N;\N;3/1/2018 19:33;3/1/2018 19:33
+254;199011162014101001;66;377;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1519603200;2;\N;\N;3/1/2018 19:34;3/1/2018 19:34
+255;199011162014101001;66;378;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1519603200;2;\N;\N;3/1/2018 19:34;3/1/2018 19:34
+259;197001122009011008;70;384;Melaksanakan pencacahan Survei HD dan HKD bulan Maret di Kec. Kelumpang Hilir;3;1519603200;2;\N;\N;3/2/2018 18:02;3/2/2018 18:02
+260;197001122009011008;66;385;Melaksanakan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;3;1519603200;2;\N;\N;3/2/2018 18:03;3/2/2018 18:03
+261;197001122009011008;66;386;Melaksanakan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1519603200;2;\N;\N;3/2/2018 18:03;3/2/2018 18:03
+262;197001122009011008;66;387;Melaksanakan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;4;1519603200;2;\N;\N;3/2/2018 18:04;3/2/2018 18:04
+263;197001122009011008;66;388;Melaksanakan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;3;1519603200;2;\N;\N;3/2/2018 18:04;3/2/2018 18:04
+265;197001122009011008;72;390;Melakukan Permintaan Data Statitik Untuk Penyusunan Publikasi Kecamatan Dalam Angka di Kecamatan Kelumpang Hilir;1;1519862400;\N;\N;\N;3/2/2018 18:49;3/2/2018 18:49
+266;198304042009011011;50;391;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Pulau Laut Utara;2;1519862400;1;\N;\N;3/4/2018 16:18;3/4/2018 16:18
+267;198304042009011011;50;392;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Kelumpang Tengah;2;1519862400;1;\N;\N;3/4/2018 16:19;3/4/2018 16:19
+268;197001122009011008;50;393;Melaksanakan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Kelumpang Selatan;1;1517788800;1;\N;\N;3/4/2018 20:18;3/4/2018 20:18
+269;197001122009011008;50;397;Melaksanakan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Kelumpang Selatan;1;1517788800;1;\N;\N;3/4/2018 20:20;3/4/2018 20:20
+270;197001122009011008;50;394;Melaksanakan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Kelumpang Hilir;1;1517788800;1;\N;\N;3/4/2018 20:21;3/4/2018 20:21
+271;197001122009011008;50;398;Melaksanakan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Kelumpang Hilir;1;1519948800;1;\N;\N;3/4/2018 20:22;3/4/2018 20:22
+272;197001122009011008;50;396;Melaksanakan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Kelumpang Hilir;1;1519948800;1;\N;\N;3/4/2018 20:24;3/4/2018 20:24
+273;197001122009011008;50;395;Melaksanakan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Kelumpang Hilir;1;1519948800;1;\N;\N;3/4/2018 20:25;3/4/2018 20:25
+274;198307172006041019;43;399;Melakukan Pencacahan  Ubinan Subround 1 2018 di Kecamatan Kelumpang Barat;1;1519862400;1;\N;\N;3/4/2018 21:59;3/4/2018 21:59
+275;198307172006041019;57;400;Melakukan Pencacahan Survei Indutri Besar Sedang Bulanan Tahun 2018;1;1519862400;1;\N;\N;3/4/2018 22:12;3/4/2018 22:12
+276;198602062011011012;67;402;Melakukan pencacahan Survei Harga Perdagangan Besar bulan Maret di Kec. Pulau Laut Utara;1;1514851200;2;\N;\N;3/5/2018 15:39;3/5/2018 15:39
+277;199407142017012001;53;405;Pengawasan Pencacahan Survei Biaya Hidup Bulan Februari di Desa Semayap;2;1515110400;2;\N;\N;3/5/2018 17:02;3/5/2018 17:08
+278;199407142017012001;53;406;Pengawasan Pencacahan Survei Biaya Hidup Bulan Februari di Desa Semayap;2;1517529600;2;\N;\N;3/5/2018 17:03;4/3/2018 17:36
+279;199407142017012001;61;407;Pengawasan Updating Survei Biaya Hidup Triwulan II di Desa Dirgahayu;1;1517529600;2;\N;\N;3/5/2018 17:08;4/3/2018 17:36
+280;199011162014101001;53;408;Melakukan Pengawasan Pencacahan SBH 2018 Bulan Februari di Kec. Pulau Laut Utara;4;1517529600;2;\N;\N;3/5/2018 22:25;3/5/2018 22:25
+281;199011162014101001;53;409;Melakukan Pengawasan Pencacahan SBH 2018 Bulan Februari di Kec. Pulau Laut Utara;2;1519603200;2;\N;\N;3/5/2018 22:26;3/5/2018 22:26
+282;199011162014101001;53;410;Melakukan Pengawasan Pencacahan SBH 2018 Bulan Februari di Kec. Pulau Laut Utara;2;1519603200;2;\N;\N;3/5/2018 22:29;3/5/2018 22:29
+283;198404262009082001;67;411;Melaksanakan pencacahan Survei Harga Perdagangan Besar bulan Maret di Kec. Pulau Laut Utara;1;1519603200;2;\N;\N;3/5/2018 23:03;3/5/2018 23:03
+284;198404262009082001;70;412;Melakukan pencacahan Survei HD dan HDK bulan Maret di Kecamatan Pulau Laut Tengah;1;1522022400;2;\N;\N;3/5/2018 23:14;3/5/2018 23:14
+285;198404262009082001;33;413;Melakukan Pengawasan Pencacahan Survei Biaya Hidup 2018 Triwulan 1 di Kecamatan Pulau Laut Utara;2;1522022400;2;\N;\N;3/5/2018 23:23;3/5/2018 23:23
+286;198404262009082001;73;414;Melaksanakan pencacahan Survei HD dan HKD bulan Januari di Kec. Pulau Laut Tengah;1;1519862400;2;\N;\N;3/6/2018 1:10;3/6/2018 1:10
+287;198609082009021001;53;278;Melakukan Pengawasan Pelaksanaan Pencacahan SBH 2018 Bulan Februari di Kecamatan Pulau Laut Utara;1;1521158400;\N;\N;\N;3/6/2018 15:57;3/6/2018 16:13
+288;198609082009021001;53;281;Melakukan Pengawasan Pencacahan SBH 2018 bulan Februari di Kecamatan Pulau Laut Utara;3;1519862400;\N;\N;\N;3/6/2018 16:13;3/6/2018 16:17
+289;198609082009021001;61;318;Melakukan Pengawasan Updating SBH 2018 Triwulan 2 di Kecamatan Pulau Laut Utara;1;1519862400;\N;\N;\N;3/6/2018 16:18;3/6/2018 16:18
+290;199301132017011001;50;415;Melakukan Pengawasan Pencacahan SUSENAS Maret 2018 di Kecamatan Pulau Sebuku;2;1517529600;\N;\N;\N;3/6/2018 16:51;5/6/2018 16:59
+291;199301132017011001;50;416;Melakukan Pengawasan Pencacahan SUSENAS Maret 2018 di Kecamatan Pulau Laut Barat;3;1514851200;\N;\N;\N;3/6/2018 16:52;3/6/2018 16:52
+292;199301132017011001;50;417;Melakukan Pengawasan Pencacahan SUSENAS Maret 2018 di Kecamatan Pulau Sebuku;2;1519603200;\N;\N;\N;3/6/2018 16:53;3/6/2018 16:53
+293;198409192006041004;50;366;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Hampang;1;1519603200;1;\N;\N;3/6/2018 23:48;3/6/2018 23:48
+294;198409192006041004;50;418;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Pulau Laut Utara;3;1519603200;\N;\N;\N;3/6/2018 23:49;3/6/2018 23:49
+295;199405252017012001;66;419;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1519603200;2;\N;\N;3/7/2018 0:13;3/7/2018 0:13
+296;199405252017012001;73;421;Melakukan Supervisi Survei Sosial dan Ekonomi Nasional Maret 2018;2;1519603200;2;\N;\N;3/7/2018 0:14;3/20/2018 16:41
+297;199405252017012001;66;422;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;4;1519603200;2;\N;\N;3/7/2018 0:14;4/1/2018 22:35
+298;199405252017012001;66;423;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1519862400;2;\N;\N;3/7/2018 0:15;4/1/2018 22:40
+299;196209291982031002;71;420;Melakukan pencacahan Survei HD dan HKD bulan Februari di Kec. Pulau Laut Timur;1;1519603200;2;\N;\N;3/7/2018 0:17;3/7/2018 0:17
+300;197405162006041016;33;424;Melakukan pengawasan pencacahan SBH bulan Januari di Kec. Pulau Laut Utara;2;1519603200;2;\N;\N;3/7/2018 16:30;3/7/2018 16:30
+301;198602062011011012;50;425;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Pamukan Barat dan Sungai Durian;2;1519862400;\N;\N;\N;3/11/2018 16:57;4/1/2018 16:20
+302;198602062011011012;50;426;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Pamukan Barat;1;1520812800;1;\N;\N;3/11/2018 16:58;4/1/2018 16:20
+303;198805082011012021;50;427;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Sampanahan;3;1520899200;1;\N;\N;3/11/2018 17:00;3/11/2018 17:26
+304;198805082011012021;50;428;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Kelumpang Barat;2;1518134400;1;\N;\N;3/11/2018 17:01;3/11/2018 17:27
+305;199405252017012001;50;429;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Pulau Laut Utara;3;1518134400;1;\N;\N;3/11/2018 17:16;3/11/2018 17:28
+306;199405252017012001;50;430;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Pulau Laut Utara;3;1518134400;1;\N;\N;3/11/2018 17:17;3/11/2018 17:18
+307;198609082009021001;66;431;Melakukan Pengawasan Pencacahan SBH 2018 di Kecamatan Pulau Laut Utara;2;1521763200;2;\N;\N;3/11/2018 19:38;3/11/2018 19:38
+308;198609082009021001;50;432;Melakukan Pengawasan Pencacahan Susenas Maret 2018 Kecamatan Pulau Laut Utara;1;1517529600;2;\N;\N;3/11/2018 19:43;3/11/2018 19:43
+309;196206211984031002;50;438;Melakukan Pengawasan Pencacahan Susenas Maret 2018 di Kecamatan Kelumpang Hulu;4;1517529600;\N;\N;\N;3/11/2018 21:19;3/11/2018 21:19
+310;196206211984031002;66;439;Melakukan Pengawasan Pencacahan SBH Maret 2018 di Kecamatan Pulau Laut Utara;12;1517529600;\N;\N;\N;3/11/2018 21:21;3/11/2018 21:21
+311;196209291982031002;57;440;Melakukan pencacahan Survei Industri Besar Sedang Bulanan Tahun 2018 di Kec. Pulau Laut Timur;1;1522713600;2;\N;\N;3/12/2018 0:13;3/12/2018 0:13
+312;197503111996122001;75;441;Pelaksanaan Supervisi SUSENAS Maret 2018 di Kecamatan Pulau Laut Kepulauan;2;1522713600;2;\N;\N;3/13/2018 0:16;3/13/2018 0:17
+313;197001122009011008;54;442;Melakukan pencacahan Survei Angkatan Kerja Nasional 2018 di Kecamatan Kelumpang Hilir;3;1522627200;1;\N;\N;3/19/2018 0:22;3/19/2018 0:22
+314;197001122009011008;55;444;Melakukan pencacahan Survei Pekerja Informal 2018 di Kecamatan Kelumpang Hilir;1;1522713600;1;\N;\N;3/19/2018 0:24;3/19/2018 0:27
+315;197001122009011008;55;443;Melakukan pencacahan Survei Pekerja Informal 2018 di Kecamatan Kelumpang Hilir;1;1522713600;1;\N;\N;3/19/2018 0:26;3/19/2018 0:26
+316;198609082009021001;77;448;Melaksanakan Laktasi Manajemen Kabupaten/Kota Riskesdas 2018;3;1522800000;1;\N;\N;3/25/2018 16:37;3/25/2018 16:37
+317;196206211984031002;53;450;Melaksanakan pengawasan pencacahan bulanan SBH 2018 bulan Februari di Kec. Pulau Laut Utara;2;1522800000;2;\N;\N;3/27/2018 16:53;3/27/2018 16:53
+318;196206211984031002;53;451;Melaksanakan pengawasan pencacahan bulanan SBH 2018 bulan Februari di Kec. Pulau Laut Utara;2;1519603200;2;\N;\N;3/27/2018 16:53;3/27/2018 16:53
+319;196206211984031002;61;452;Melaksanakan pengawasan updating blok sensus TW II SBH 2018 bulan Februari di Kec. Pulau Laut Utara;1;1519862400;2;\N;\N;3/27/2018 16:55;3/27/2018 16:55
+320;199011162014101001;81;459;Pencacahan SKKRT TRiwulan 1 2018;1;1519862400;\N;\N;\N;4/1/2018 20:50;4/1/2018 20:50
+321;198409192006041004;81;460;Pencacahan SKKRT Triwulan 1 2018;1;1520294400;\N;\N;\N;4/1/2018 20:52;4/1/2018 20:52
+322;197405162006041016;82;463;Melakukan Updating Survei Ubinan SR 2 2018 di Kecamatan Pamukan Selatan;4;1520294400;\N;\N;\N;4/1/2018 20:52;4/1/2018 20:52
+323;198805082011012021;81;461;Pencacahan SKKRT Triwulan 1 2018;1;1519603200;\N;\N;\N;4/1/2018 20:53;4/1/2018 20:53
+324;196209291982031002;81;462;Pencacahan SKKRT Triwulan 1 2018;1;1519603200;\N;\N;\N;4/1/2018 20:54;4/1/2018 20:54
+325;199011162014101001;83;464;Pencacahan SKLNPT Triwulan 1 2018;1;1522800000;\N;\N;\N;4/1/2018 20:58;4/1/2018 20:58
+326;198404262009082001;83;465;Pencacahan SKLNPT Triwulan 1 2018;1;1522627200;\N;\N;\N;4/1/2018 20:59;4/1/2018 20:59
+327;196209291982031002;50;466;Melakukan Pengawasan Pencacahan Susenas Maret 2018 di Kecamatan Pulau Laut Timur, Pulau Laut Kepulauan dan  Pulau Laut Selatan;5;1522627200;\N;\N;\N;4/1/2018 21:48;4/1/2018 23:43
+328;199405252017012001;66;445;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1522627200;1;\N;\N;4/1/2018 22:42;4/1/2018 22:42
+329;199405252017012001;66;446;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1522281600;1;\N;\N;4/1/2018 22:43;4/1/2018 22:43
+330;199407142017012001;66;467;Pengawasan Pencacahan Survei Biaya Hidup Bulan Maret di Desa Semayap;12;1519603200;2;\N;\N;4/1/2018 23:17;4/3/2018 17:38
+331;199407142017012001;66;468;Pengawasan Pencacahan Survei Biaya Hidup Bulan Maret di Desa Kotabaru Tengah;6;1523836800;2;\N;\N;4/1/2018 23:18;4/3/2018 17:39
+332;197405162006041016;50;469;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kec Pulau Laut Utara;2;1519948800;\N;\N;\N;4/3/2018 16:28;4/3/2018 16:28
+333;197405162006041016;50;470;Melakukan Pengawasan Pencacahan Survei Sosial dan Ekonomi Nasional Maret 2018 di Kecamatan Pamukan Selatan ;3;1519948800;1;\N;\N;4/3/2018 16:32;4/3/2018 16:32
+334;199407142017012001;71;472;Melaksanakan pencacahan  AJR II/2, AJR II/3, Pj II/5 di Kecamatan Pulau Laut Utara;1;1519948800;2;\N;\N;4/3/2018 17:12;4/3/2018 17:13
+335;199011162014101001;84;473;Melakukan pengawasan pencacahan SBH bulan April di Kec. Pulau Laut Utara;1;1519948800;2;\N;\N;4/3/2018 17:13;4/4/2018 2:49
+336;199407142017012001;84;474;Pengawasan Survei Biaya Hidup 2018 Bulan April di Desa Dirgahayu;2;1519948800;2;\N;\N;4/3/2018 17:54;4/3/2018 17:54
+337;199407142017012001;84;475;Pengawasan Survei Biaya Hidup 2018 Bulan April di Desa Dirgahayu;2;1519948800;2;\N;\N;4/3/2018 17:55;4/3/2018 17:55
+338;198602062011011012;82;476;Melakukan Updating/Listing Rumah Tangga Survei Ubinan Subround II Tahun 2018 di Kecamatan Pamukan Barat;5;1522627200;\N;\N;\N;4/3/2018 18:02;4/3/2018 18:02
+339;198602062011011012;43;477;Melakukan Pencacahan Survei Ubinan Tanaman Pangan Subround I Tahun 2018 di Kecamatan Pamukan Barat;1;1522627200;\N;\N;\N;4/3/2018 18:04;4/3/2018 18:04
+340;197001122009011008;72;478;Pencacahan KCA 2018 di Kecamatan Kelumpang Hilir;1;1522627200;2;\N;\N;4/3/2018 22:24;4/3/2018 22:24
+341;198602062011011012;66;488;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;4;1522627200;2;\N;\N;4/4/2018 1:54;4/4/2018 1:57
+342;198602062011011012;66;489;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;1;1522627200;2;\N;\N;4/4/2018 1:57;4/4/2018 1:57
+343;198602062011011012;66;490;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;1;1522627200;2;\N;\N;4/4/2018 1:58;4/4/2018 1:58
+344;198602062011011012;66;491;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1522627200;2;\N;\N;4/4/2018 1:59;4/4/2018 1:59
+345;198307172006041019;70;479;Melaksanakan pencacahan Survei HD/HKD bulan Maret di Kec. Pamukan Utara;1;1522627200;2;\N;\N;4/4/2018 2:03;4/4/2018 2:03
+346;198602062011011012;66;492;Melakukan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;4;1522627200;2;\N;\N;4/4/2018 2:06;4/4/2018 2:06
+347;197001122009011008;84;484;Melakukan pengawasan pencacahan SBH bulan April di Kec. Pulau Laut Utara;1;1522627200;2;\N;\N;4/4/2018 2:13;4/4/2018 2:13
+348;197001122009011008;84;485;Melakukan pengawasan pencacahan SBH bulan April di Kec. Pulau Laut Utara;2;1522627200;2;\N;\N;4/4/2018 2:14;4/4/2018 2:14
+349;197001122009011008;84;486;Melakukan pengawasan pencacahan SBH bulan April di Kec. Pulau Laut Utara;1;1522627200;2;\N;\N;4/4/2018 2:15;4/4/2018 2:15
+350;197001122009011008;85;483;Melakukan pencacahan Survei HD/HKD bulan April di Kec. Kelumpang Selatan;1;1522627200;2;\N;\N;4/4/2018 2:16;4/4/2018 2:17
+351;197001122009011008;86;480;Melakukan pencacahan VHT-S bulan April di Kec. Pulau Laut Utara;1;1522627200;2;\N;\N;4/4/2018 2:18;4/4/2018 2:18
+352;197001122009011008;14;481;Melakukan pencacahan HPB bulan April di Kec. Pulau Laut Utara;1;1522972800;2;\N;\N;4/4/2018 2:20;4/4/2018 2:20
+353;197001122009011008;85;482;Melakukan pencacahan HD/HKD bulan April di Kec. Kelumpang Hilir;2;1522540800;2;\N;\N;4/4/2018 2:21;4/4/2018 2:21
+354;198307172006041019;85;487;Melakukan pencacahan HD/HKD bulan April di Kec. Pamukan Utara;1;1522972800;2;\N;\N;4/4/2018 2:31;4/4/2018 2:31
+355;198409192006041004;86;495;Melakukan pencacahan VHT-S bulan April di Kec. Pulau Laut Utara;1;1522972800;2;\N;\N;4/4/2018 2:36;4/4/2018 2:36
+356;198409192006041004;87;496;Melakukan pencacahan HPB bulan April di Kec. Pulau Laut Utara;1;1522972800;2;\N;\N;4/4/2018 2:37;4/4/2018 2:37
+357;198602062011011012;84;493;Melakukan pengawasan pencacahan SBH bulan April di Kec. Pulau Laut Utara;2;1522627200;2;\N;\N;4/4/2018 2:41;4/4/2018 2:41
+358;198602062011011012;84;494;Melakukan pengawasan pencacahan SBH bulan April di Kec. Pulau Laut Utara;2;1523232000;2;\N;\N;4/4/2018 2:41;4/4/2018 2:41
+359;199011162014101001;84;497;Melakukan pengawasan pencacahan SBH bulan April di Kec. Pulau Laut Utara;2;1523232000;2;\N;\N;4/4/2018 2:49;4/4/2018 2:49
+361;199011162014101001;89;500;Melakukan pengawasan pencacahan IKK Triwulan II di Kec. Pulau Laut Utara;5;1523232000;2;\N;\N;4/4/2018 2:52;4/4/2018 2:52
+362;198409192006041004;43;501;Melakukan pencacahan Survei Pertanian Tanaman Pangan Ubinan Subround I Tahun 2018 di Kecamatan Hampang;1;1523318400;\N;\N;\N;4/5/2018 17:46;4/5/2018 17:49
+363;198307172006041019;57;502;Melakukan Pencacahan Survei Industri Besar Sedang Bulanan Tahun 2018 di Kecamatan Pamukan Utara;1;1522627200;\N;\N;\N;4/5/2018 18:01;4/5/2018 18:01
+364;198307172006041019;43;503;Melakukan Pencacahan Survei Pertanian Tanaman Pangan Ubinan Subround I Tahun 2018 di Kecamatan Kelumpang Barat;2;1522627200;\N;\N;\N;4/5/2018 18:03;4/5/2018 18:04
+365;198307172006041019;43;504;Melakukan Pencacahan Survei Pertanian Tanaman Pangan Ubinan Subround I Tahun 2018 di Kecamatan Pamukan Utara;2;1519948800;\N;\N;\N;4/5/2018 18:04;4/5/2018 18:04
+366;198307172006041019;52;505;Melakukan Pencacahan Survei Perkebunan Triwulanan Tahun 2018 di Kecamatan Pamukan Utara;5;1519948800;\N;\N;\N;4/5/2018 18:06;4/5/2018 18:06
+367;199011162014101001;71;498;Melaksanakan pencacahan PJ II/5, AJR II/2, dam AJR II/3 di Kecamatan Pulau Laut Utara;1;1519948800;2;\N;\N;4/8/2018 18:16;4/8/2018 18:16
+368;197001122009011008;92;506;Melakukan Pencacahan Survei Industri Besar Sedang Tahunan 2018 di Kecamatan Kelumpang Hilir;1;1519948800;\N;\N;\N;4/8/2018 23:33;4/8/2018 23:33
+369;197001122009011008;57;507;Melakukan Pencacahan Survei Industri Besar Sedang Bulanan Tahun 2018 di Kecamatan Kelumpang Hilir;1;1519948800;\N;\N;\N;4/8/2018 23:34;4/8/2018 23:34
+370;197001122009011008;52;508;Melakukan Pencacahan Survei Perkebunan Triwulanan Tahun 2018 di Kecamatan Kelumpang Hilir;1;1519948800;\N;\N;\N;4/8/2018 23:50;4/8/2018 23:50
+371;196006081986031004;97;517;Melakukan Pencacahan Survei Captive Power (PEK) Tahun 2018 di Kecamatan Pulau Laut Utara;1;1522627200;\N;\N;\N;4/9/2018 17:01;4/9/2018 17:01
+372;198304042009011011;84;524;Melaksanakan pengawasan SBH bulan April di Kec. Pulau Laut Utara;2;1523836800;2;\N;\N;4/9/2018 22:51;4/9/2018 22:51
+373;198304042009011011;84;525;Melaksanakan pengawasan SBH bulan April di Kec. Pulau Laut Utara;2;1523836800;2;\N;\N;4/9/2018 22:52;4/9/2018 22:52
+374;198304042009011011;66;518;Melaksanakan pengawasan SBH bulan Maret di Kec. Pulau Laut Utara;2;1522540800;2;\N;\N;4/9/2018 22:53;4/9/2018 22:53
+375;198304042009011011;66;519;Melaksanakan pengawasan SBH bulan Maret di Kec. Pulau Laut Utara;3;1519948800;2;\N;\N;4/9/2018 22:54;4/9/2018 22:59
+376;198304042009011011;66;520;Melaksanakan pengawasan SBH bulan Maret di Kec. Pulau Laut Utara;1;1523491200;2;\N;\N;4/9/2018 22:55;4/9/2018 22:59
+377;198304042009011011;66;521;Melaksanakan pengawasan SBH bulan Maret di Kec. Pulau Laut Utara;2;1524009600;2;\N;\N;4/9/2018 22:58;4/9/2018 22:58
+378;198304042009011011;66;522;Melaksanakan pengawasan SBH bulan Maret di Kec. Pulau Laut Utara;1;1524096000;2;\N;\N;4/9/2018 23:11;4/9/2018 23:11
+379;198304042009011011;66;523;Melaksanakan pengawasan SBH bulan Maret di Kec. Pulau Laut Utara;1;1524096000;2;\N;\N;4/9/2018 23:13;4/9/2018 23:13
+380;196206211984031002;85;511;Melakukan pencacahan Survei HD/HKD bulan April di Kec. Kelumpang Hulu;2;1524009600;\N;\N;\N;4/11/2018 19:35;4/11/2018 19:35
+381;198307172006041019;93;526;Melakukan Pengawasan Pencacahan Survei Kerangka Sampel Area (KSA) Bulan April Tahun 2018 di Kecamatan Kelumpang Utara;1;1524528000;\N;\N;\N;4/15/2018 18:09;4/15/2018 18:09
+382;198307172006041019;93;527;Melakukan Pengawasan Pencacahan Survei Kerangka Sampel Area (KSA) Bulan April Tahun 2018 di Kecamatan Kelumpang Tengah;1;1522540800;\N;\N;\N;4/15/2018 18:10;4/15/2018 18:10
+383;198307172006041019;92;528;Melakukan Pencacahan Survei Industri Besar Sedang Tahunan 2018 di Kecamatan Pamukan Utara;1;1522540800;\N;\N;\N;4/15/2018 19:29;4/15/2018 19:29
+384;198304042009011011;66;529;Melaksanakan pengawasan SBH bulan Maret di Kec. Pulau Laut Utara;1;1522540800;2;\N;\N;4/16/2018 17:22;4/16/2018 17:22
+385;197503111996122001;98;530;Pengurusan Surat Mobil Dinas Innova;1;1524614400;2;\N;\N;4/17/2018 17:30;4/17/2018 17:30
+386;197503111996122001;99;531;Konsultasi Survei Biaya Hidup (SBH) 2018 di Banjarbaru;3;1524700800;2;\N;\N;4/17/2018 17:37;4/17/2018 17:37
+387;199507142018022002;100;533;Melakukan konsultasi Susenas Maret 2018 di BPS Provinsi Kalimantan Selatan;3;1524700800;1;\N;\N;4/18/2018 20:48;4/18/2018 20:48
+388;198609082009021001;100;532;Melakukan konsulltasi Susenas Maret 2018 di BPS Provinsi Kalimantan Selatan;3;1524700800;1;\N;\N;4/18/2018 20:54;4/18/2018 20:54
+389;197503111996122001;101;534;Pengawasan Ubinan SR1 dan Update Listing Ubinan SR2 2018 di Pulau Laut Barat Dan Tanjung Selayar;2;1524700800;2;\N;\N;4/22/2018 16:41;4/23/2018 19:28
+390;198602062011011012;93;535;Melakukan Pencacahan Survei Kerangka Sampel Area (KSA) Bulan April Tahun 2018 di Kecamatan Pamukan Barat;1;1524700800;\N;\N;\N;4/23/2018 16:30;4/23/2018 16:30
+391;197001122009011008;43;536;Melakukan Pencacahan Survei Pertanian Tanaman Pangan Ubinan Subround I Tahun 2018 di Kec. Kelumpang Hilir dan Kec. Kelumpang Selatan;1;1524700800;\N;\N;\N;4/23/2018 17:24;4/23/2018 17:24
+392;197001122009011008;43;537;Melakukan Pencacahan Survei Pertanian Tanaman Pangan Ubinan Subround I Tahun 2018 di Kec. Kelumpang Hilir dan Kec. Kelumpang Selatan;1;1524700800;\N;\N;\N;4/23/2018 17:25;4/23/2018 17:25
+393;197001122009011008;43;538;Melakukan Pencacahan Survei Pertanian Tanaman Pangan Ubinan Subround I Tahun 2018 di Kec. Kelumpang Hilir dan Kec. Kelumpang Selatan;1;1524700800;\N;\N;\N;4/23/2018 17:25;4/23/2018 17:25
+394;197503111996122001;102;539;Pengawasan Pencacahan KSA April 2018 di Kecamatan Kelumpang Barat;1;1524700800;2;\N;\N;4/23/2018 23:40;4/23/2018 23:50
+395;196209291982031002;103;540;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Pulau Laut Timur;3;1524700800;\N;\N;\N;4/25/2018 18:59;4/25/2018 18:59
+396;196507241994011001;103;541;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Pulau Laut Timur;2;1524700800;\N;\N;\N;4/25/2018 19:05;4/25/2018 19:05
+397;198503152010031001;103;542;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Pulau Laut Utara;2;1524700800;\N;\N;\N;4/25/2018 19:07;4/25/2018 19:07
+398;198503152010031001;103;543;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Sungai Durian;1;1524700800;\N;\N;\N;4/25/2018 19:11;4/25/2018 19:11
+399;198404262009082001;103;544;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Pulau Laut Utara;2;1524700800;\N;\N;\N;4/25/2018 19:12;4/25/2018 19:12
+400;198404262009082001;103;545;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Pulau Laut Tengah;1;1524700800;\N;\N;\N;4/25/2018 19:12;4/25/2018 19:12
+401;199501012018022001;103;546;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Pulau Laut Utara;3;1524700800;\N;\N;\N;4/25/2018 19:13;4/25/2018 19:13
+402;199501022017012001;103;547;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Pulau Laut Utara;2;1524700800;\N;\N;\N;4/25/2018 19:14;4/25/2018 19:14
+403;198409192006041004;103;548;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Pulau Laut Utara;1;1522540800;\N;\N;\N;4/25/2018 19:14;4/25/2018 19:14
+404;198409192006041004;103;549;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Hampang;2;1522281600;\N;\N;\N;4/25/2018 19:15;4/25/2018 19:15
+405;197001122009011008;103;550;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Kelumpang Hilir;2;1522281600;\N;\N;\N;4/25/2018 19:16;4/25/2018 19:16
+406;197001122009011008;103;551;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Kelumpang Selatan;1;1524700800;\N;\N;\N;4/25/2018 19:17;4/25/2018 19:17
+407;196206211984031002;103;552;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Kelumpang Hulu;3;1522281600;\N;\N;\N;4/25/2018 19:18;5/17/2018 23:19
+408;198304042009011011;103;553;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Kelumpang Tengah, Kelumpang Utara, Kelumpang Barat;2;1525219200;\N;\N;\N;4/25/2018 19:20;4/25/2018 19:20
+409;198805082011012021;103;554;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Sampanahan;2;1525219200;\N;\N;\N;4/25/2018 19:21;4/25/2018 19:21
+410;198307172006041019;103;555;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Pamukan Utara;2;1525219200;\N;\N;\N;4/25/2018 19:23;4/25/2018 19:23
+411;198602062011011012;103;556;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Pamukan Barat;2;1525219200;\N;\N;\N;4/25/2018 19:23;4/25/2018 19:23
+412;198409192006041004;82;557;Melakukan Updating/Listing Rumah Tangga Survei Ubinan Tanaman Pangan Subround 2 Tahun 2018 di Kecamatan Hampang;3;1525219200;\N;\N;\N;4/25/2018 19:37;4/25/2018 19:37
+413;198304042009011011;82;559;Melakukan Updating/Listing Rumah Tangga Survei Ubinan Subround II Tahun 2018 di Kecamatan Kelumpang Tengah;1;1525219200;\N;\N;\N;4/29/2018 17:08;4/29/2018 17:08
+414;198304042009011011;82;560;Melakukan Updating/Listing Rumah Tangga Survei Ubinan Subround II Tahun 2018 di Kecamatan Kelumpang Tengah;2;1519603200;\N;\N;\N;4/29/2018 17:09;4/29/2018 17:09
+415;197405162006041016;103;561;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Pamukan Selatan;2;1525219200;\N;\N;\N;4/29/2018 17:10;4/29/2018 17:10
+416;198602062011011012;82;558;Melakukan Updating/Listing Rumah Tangga Survei Ubinan Subround II Tahun 2018 di Kecamatan Pamukan Barat;2;1525219200;\N;\N;\N;4/29/2018 17:14;4/29/2018 17:14
+417;197503111996122001;105;568;Konsultasi Administrasi & Teknis Penyusunan Disagregasi PMTB ke BPS Provinsi Kal-Sel;3;1525219200;2;\N;\N;5/2/2018 16:10;5/2/2018 16:10
+422;198805082011012021;109;576;Pengawasan Pencacahan SBH 2018 Bulan Mei 2018;2;1525219200;2;\N;\N;5/4/2018 1:47;5/4/2018 1:47
+423;198805082011012021;109;577;Pengawasan Pencacahan SBH 2018 Bulan Mei 2018;2;1525219200;2;\N;\N;5/4/2018 1:48;5/4/2018 1:48
+424;198805082011012021;109;578;Pengawasan Updating SBH 2018 Triwulan 3;1;1525219200;2;\N;\N;5/4/2018 1:50;5/4/2018 1:50
+425;198409192006041004;110;579;Melaksanakan pencacahan VHT-S bulan Mei di Kec. Pulau Laut Utara;1;1525219200;2;\N;\N;5/4/2018 22:29;5/4/2018 22:29
+426;198409192006041004;111;580;Melaksanakan pencacahan Survei HPB bulan Mei di Kec. Pulau Laut Utara;1;1525219200;2;\N;\N;5/4/2018 22:29;5/4/2018 22:29
+427;199301132017011001;50;457;Melakukan Pengawasan Pencacahan SUSENAS Maret 2018 di Kecamatan Pulau Laut Tanjung Selayar;2;1525219200;\N;\N;\N;5/6/2018 17:00;5/6/2018 17:00
+428;199507142018022002;106;582;Melakukan Pengawasan Pendataan Podes Desa 2018;1;1525219200;1;\N;\N;5/6/2018 17:51;5/6/2018 17:51
+429;199507142018022002;107;583;Melakukan Pencacahan Pendataan Podes Kecamatan 2018;1;1525219200;1;\N;\N;5/6/2018 17:53;5/6/2018 17:53
+430;199509162018022001;113;584;Melakukan Pencacahan Pendataan Podes Desa 2018;1;1525219200;1;\N;\N;5/6/2018 18:24;5/6/2018 18:45
+431;199509162018022001;113;585;Melakukan Pencacahan Pendataan Podes 2018;1;1525219200;1;\N;\N;5/6/2018 18:25;5/6/2018 18:48
+432;199509162018022001;113;586;Melakukan Pencacahan Pendataan Podes 2018;1;1525219200;1;\N;\N;5/6/2018 18:27;5/6/2018 19:38
+433;199509162018022001;113;587;Melakukan Pencacahan Pendataan Podes 2018;1;1525219200;1;\N;\N;5/6/2018 18:31;5/6/2018 19:38
+434;199509162018022001;113;588;Melakukan Pencacahan Pendataan Podes 2018 ;1;1525219200;1;\N;\N;5/6/2018 18:35;5/6/2018 19:39
+435;199509162018022001;113;589;Melakukan Pencacahan Pendataan Podes 2018;1;1525219200;1;\N;\N;5/6/2018 18:36;5/6/2018 19:39
+436;199509162018022001;113;590;Melakukan Pencacahan Pendataan Podes 2018;1;1525219200;1;\N;\N;5/6/2018 18:38;5/6/2018 19:40
+437;198609082009021001;106;591;Melakukan Supervisi Pendataan Podes 2018 di Kecamatan Pulau Laut Timur ;1;1525219200;1;\N;\N;5/6/2018 21:20;5/6/2018 21:36
+438;198609082009021001;106;592;Melakukan Supervisi Pendataan Podes 2018;1;1525219200;1;\N;\N;5/7/2018 0:34;5/7/2018 0:34
+439;197503111996122001;115;596;Melakukan Supervisi Sutas 2018;1;1522281600;1;\N;\N;5/7/2018 0:53;5/22/2018 23:31
+440;197503111996122001;114;594;Melakukan Supervisi Pendataan Podes 2018;1;1522627200;1;\N;\N;5/7/2018 0:55;5/22/2018 23:30
+441;198609082009021001;106;597;Melakukan Supervisi Pendataan Podes 2018;1;1522627200;1;\N;\N;5/7/2018 1:02;5/7/2018 1:02
+442;197503111996122001;114;598;Melakukan Supervisi Pendataan Podes 2018;1;1522627200;1;\N;\N;5/7/2018 1:07;5/22/2018 23:31
+443;197503111996122001;115;599;Melakukan Supervisi Sutas 2018;1;1522627200;1;\N;\N;5/7/2018 1:11;5/22/2018 23:32
+444;196206211984031002;112;600;Pendataan Survei Harga Produsen Perdesaan di Kec. Kelumpang Hulu;2;1522627200;2;\N;\N;5/7/2018 17:12;5/7/2018 17:24
+445;199407142017012001;109;601;Pengawasan SBH 2018 Bulan Mei di Kecamatan Pulau Laut Utara;2;1522627200;2;\N;\N;5/7/2018 17:18;5/7/2018 17:18
+446;199407142017012001;109;602;Pengawasan Updating SBH 2018 Triwulan III di Kecamatan Pulau Laut Utara;1;1522627200;2;\N;\N;5/7/2018 17:19;5/7/2018 17:19
+447;199407142017012001;109;603;Pengawasan SBH 2018 Bulan Mei di Kecamatan Pulau Laut Utara;2;1522627200;2;\N;\N;5/7/2018 17:20;5/7/2018 17:20
+448;196206211984031002;82;513;Melakukan Updating Rumah Tangga Survei Ubinan Tanaman Pangan SR 2 di Desa Cantung Kiri Hilir, Banua Lawa, dan Sungai Kupang Kelumpang Hilir;3;1525219200;\N;\N;\N;5/7/2018 17:32;5/7/2018 17:32
+449;199407142017012001;116;604;Pencacahan Survei Disagregasi PMTB 2018 di Kec. Pulau Laut Utara;2;1525219200;2;\N;\N;5/7/2018 19:34;5/7/2018 19:34
+450;199407142017012001;116;605;Pencacahan Survei Disagregasi PMTB 2018 di Kec. Pulau Laut Utara;1;1525219200;2;\N;\N;5/7/2018 19:35;5/29/2018 19:30
+451;199507142018022002;84;606;Melakukan Pengawasan SBH bulan April di Desa Baharu Utara;1;1525219200;1;\N;\N;5/7/2018 23:57;5/7/2018 23:57
+452;199507142018022002;84;607;Melakukan Pengawasan SBH bulan April di Desa Baharu Utara;1;1525219200;1;\N;\N;5/7/2018 23:59;5/7/2018 23:59
+453;199507142018022002;84;608;Melakukan Pengawasan SBH bulan April di Desa Baharu Utara;1;1525219200;1;\N;\N;5/8/2018 0:00;5/8/2018 0:00
+454;199507142018022002;84;609;Melakukan Pengawasan SBH bulan April di Desa Baharu Utara;1;1525219200;1;\N;\N;5/8/2018 0:02;5/8/2018 0:02
+455;199501012018022001;84;610;Pengawasan Survei Biaya Hidup 2018 Bulan April di Desa Batuah;2;1525219200;\N;\N;\N;5/8/2018 0:16;5/8/2018 0:16
+456;199501012018022001;84;611;Pengawasan Survei Biaya Hidup 2018 Bulan April di Desa Hilir Muara;2;1525219200;\N;\N;\N;5/8/2018 0:26;5/10/2018 19:06
+457;199507142018022002;109;612;Melakukan Pengawasan SBH Bulan Mei di Desa Baharu Utara;1;1525219200;1;\N;\N;5/8/2018 0:41;5/8/2018 0:41
+458;199507142018022002;109;613;Melakukan Pengawasan SBH Bulan Mei di Desa Baharu Utara;1;1524700800;1;\N;\N;5/8/2018 0:42;5/8/2018 0:42
+460;199507142018022002;109;615;Melakukan Pengawasan Updating SBH Triwulan 3 ;1;1524700800;1;\N;\N;5/8/2018 0:48;5/8/2018 0:48
+461;199301132017011001;108;617;Melakukan Pencacahan Pendataan Podes Kabupaten Kotabaru ;1;1524700800;1;\N;\N;5/8/2018 16:24;5/8/2018 16:24
+462;197001122009011008;106;619;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kecamatan Kelumpang Hilir;1;1524700800;1;\N;\N;5/8/2018 21:38;5/8/2018 21:38
+463;197001122009011008;109;620;Pengawasan SBH 2018 Bulan Mei di Kec. Pulau Laut Utara;2;1524700800;2;\N;\N;5/8/2018 21:39;5/8/2018 21:39
+464;197001122009011008;106;622;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kecamatan Kelumpang Selatan;1;1524700800;1;\N;\N;5/8/2018 21:39;5/9/2018 0:09
+465;197001122009011008;109;621;Pengawasan SBH 2018 Bulan Mei di Kec. Pulau Laut Utara;1;1525219200;2;\N;\N;5/8/2018 21:40;5/8/2018 21:40
+466;197001122009011008;109;623;Pengawasan Updating SBH 2018 Triwulan III di Kec. Pulau Laut Utara;1;1525219200;2;\N;\N;5/8/2018 21:41;5/8/2018 21:41
+467;197001122009011008;109;624;Pengawasan SBH 2018 Bulan Mei di Kec. Pulau Laut Utara;1;1525219200;2;\N;\N;5/8/2018 21:42;5/8/2018 21:42
+468;197001122009011008;118;625;Melakukan Pengawasan Pencacahan Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Kelumpang Hilir;3;1525219200;\N;\N;\N;5/8/2018 23:19;5/8/2018 23:45
+469;197001122009011008;118;627;Melakukan Pengawasan Pencacahan Survei Pertanian Antar Sensus (SUTAS 2018) di Kecamatan Kelumpang Hilir;3;1525219200;\N;\N;\N;5/8/2018 23:49;5/8/2018 23:49
+470;197001122009011008;118;626;Melakukan Pengawasan Pencacahan Survei Pertanian Antar Sensus (SUTAS 2018) di Kecamatan Kelumpang Hilir;3;0;\N;\N;\N;5/8/2018 23:52;5/8/2018 23:52
+471;197001122009011008;118;628;Melakukan Pengawasan Pencacahan Survei Pertanian Antar Sensus (SUTAS 2018) di Kecamatan Kelumpang Selatan;3;1525219200;\N;\N;\N;5/9/2018 0:02;5/9/2018 0:02
+472;197001122009011008;118;629;Melakukan Pengawasan Pencacahan Survei Pertanian Antar Sensus (SUTAS 2018) di Kecamatan Kelumpang Selatan;3;1525219200;\N;\N;\N;5/9/2018 0:03;5/9/2018 0:03
+473;197001122009011008;118;630;Melakukan Pengawasan Pencacahan Survei Pertanian Antar Sensus (SUTAS 2018) di Kecamatan Kelumpang Selatan;2;1522627200;\N;\N;\N;5/9/2018 0:04;5/9/2018 0:04
+474;198602062011011012;106;631;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kec. Pamukan Barat;1;1522627200;1;\N;\N;5/10/2018 16:21;5/10/2018 16:21
+475;198602062011011012;106;632;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kec. Pulau Laut Kepulauan;1;1522627200;1;\N;\N;5/10/2018 16:22;5/10/2018 16:22
+476;198805082011012021;106;633;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kecamatan Sampanahan;1;1522627200;1;\N;\N;5/11/2018 0:43;5/11/2018 0:43
+477;198805082011012021;107;634;Melakukan Pencacahan Pendataan Podes Kecamatan 2018 di Kecamatan Sampanahan;1;1525219200;1;\N;\N;5/11/2018 0:47;8/2/2018 16:46
+478;198409192006041004;106;637;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kecamatan Hampang;1;1525219200;1;\N;\N;5/11/2018 0:49;5/11/2018 0:49
+479;198409192006041004;106;638;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kecamatan Pulau Sebuku;1;1525219200;1;\N;\N;5/11/2018 0:51;5/11/2018 0:51
+480;198805082011012021;106;635;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kec. Kelumpang Barat;1;1525219200;1;\N;\N;5/11/2018 0:53;5/11/2018 0:53
+481;198805082011012021;107;636;Melakukan Pencacahan Pendataan Podes Kecamatan 2018 di Kec. Kelumpang Barat;1;1525219200;1;\N;\N;5/11/2018 0:54;5/11/2018 0:54
+482;199509162018022001;84;639;Melakukan Pengawasan Survei Biaya Hidup Bulan April di Kec. Pulau Laut Utara;1;1525219200;1;\N;\N;5/14/2018 0:59;5/14/2018 0:59
+483;199509162018022001;84;640;Melakukan Pengawasan Survei Biaya Hidup Bulan April di Kec. Pulau Laut Utara;1;1525219200;1;\N;\N;5/14/2018 1:10;5/14/2018 1:10
+484;199509162018022001;84;641;Melakukan Pengawasan Survei Biaya Hidup Bulan April di Kec. Pulau Laut Utara;1;1522627200;1;\N;\N;5/14/2018 1:11;5/14/2018 1:11
+485;199509162018022001;84;642;Melakukan Pengawasan Survei Biaya Hidup Bulan April di Kec. Pulau Laut Utara;1;1523404800;1;\N;\N;5/14/2018 1:11;5/14/2018 1:11
+486;199509162018022001;109;643;Melakukan Pengawasan Survei Biaya Hidup Bulan Mei di Kec. Pulau Laut Utara;1;1524700800;1;\N;\N;5/14/2018 1:19;5/14/2018 1:19
+487;199509162018022001;109;644;Melakukan Pengawasan Survei Biaya Hidup Bulan Mei di Kec. Pulau Laut Utara;1;1525219200;1;\N;\N;5/14/2018 1:20;5/14/2018 1:20
+488;199509162018022001;109;645;Melakukan Pengawasan Survei Biaya Hidup Bulan Mei di Kec. Pulau Laut Utara;1;1525219200;1;\N;\N;5/14/2018 1:21;5/14/2018 1:21
+489;199509162018022001;109;646;Melakukan Pengawasan Survei Biaya Hidup Bulan Mei di Kec. Pulau Laut Utara;1;1525219200;1;\N;\N;5/14/2018 1:22;5/14/2018 1:22
+490;199509162018022001;109;647;Pengawasan Updating SBH 2018 Triwulan III di Kecamatan Pulau Laut Utara;1;1525219200;1;\N;\N;5/14/2018 1:32;5/14/2018 1:32
+491;197405162006041016;106;648;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kec. Pulau Laut Tanjung Selayar;1;1525219200;1;\N;\N;5/14/2018 21:25;5/14/2018 21:25
+492;197405162006041016;107;649;Melakukan Pencacahan Pendataan Podes Kecamatan 2018 di Kec. Pulau Laut Tanjung Selayar;1;1519862400;1;\N;\N;5/14/2018 21:26;5/14/2018 21:26
+493;196206211984031002;84;512;Melakukan pengawasan pencacahan SBH bulan April di Kec. Pulau Laut Utara;4;1519862400;\N;\N;\N;5/15/2018 16:21;5/15/2018 16:21
+494;199301132017011001;119;650;Melakukan Pendataan Metadata Kegiatan Statistik Sektoral/Khusus Tahun 2018 di Kabupaten Kotabaru;1;1519862400;\N;\N;\N;5/15/2018 17:26;5/15/2018 17:26
+495;197503111996122001;115;651;Melakukan Supervisi Survei Petanian Antar Sensus 2018 di Kecamatan Pulau Laut Timur;1;1519862400;\N;\N;\N;5/15/2018 17:37;5/22/2018 23:32
+496;198609082009021001;106;652;Melakukan Supervisi Pendataan Podes 2018 di Kecamatan Kelumpang Selatan;1;1519862400;1;\N;\N;5/16/2018 0:39;5/16/2018 0:39
+497;197503111996122001;115;653;Melakukan Supervisi Sutas 2018 di Kecamatan Kelumpang Selatan;1;1519862400;1;\N;\N;5/16/2018 0:45;5/22/2018 23:32
+498;199507142018022002;109;654;Melakukan Pengawasan SBH Bulan Mei di Desa Baharu Utara;2;1525219200;1;\N;\N;5/16/2018 16:59;5/16/2018 16:59
+499;199507142018022002;106;655;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kecamatan Pulau Laut Timur;1;1525219200;1;\N;\N;5/16/2018 17:04;5/16/2018 17:04
+500;199507142018022002;107;656;Melakukan Pencacahan Pendataan Podes Kecamatan 2018 ;1;1525219200;1;\N;\N;5/16/2018 17:10;5/16/2018 17:10
+501;199011162014101001;66;657;Melaksanakan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;1;1526342400;2;\N;\N;5/16/2018 19:07;5/16/2018 19:07
+502;199011162014101001;66;658;Melaksanakan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;1;1525219200;2;\N;\N;5/16/2018 19:08;5/16/2018 19:08
+503;199011162014101001;66;659;Melaksanakan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1525219200;2;\N;\N;5/16/2018 19:11;5/16/2018 19:11
+504;199011162014101001;66;660;Melaksanakan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;1;1525219200;2;\N;\N;5/16/2018 19:12;5/16/2018 19:12
+505;199011162014101001;66;661;Melaksanakan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;1;1525219200;2;\N;\N;5/16/2018 19:13;5/16/2018 19:13
+506;199011162014101001;66;662;Melaksanakan pengawasan pencacahan SBH bulan Maret di Kec. Pulau Laut Utara;2;1524700800;2;\N;\N;5/16/2018 19:14;5/16/2018 19:14
+507;199011162014101001;109;663;Melaksanakan pengawasan pencacahan SBH bulan Mei di Kec. Pulau Laut Utara;2;1524700800;2;\N;\N;5/16/2018 19:29;5/16/2018 19:29
+508;199011162014101001;109;664;Melaksanakan pengawasan pencacahan SBH bulan Mei di Kec. Pulau Laut Utara;2;1524700800;2;\N;\N;5/16/2018 19:29;5/16/2018 19:29
+509;199011162014101001;109;665;Melaksanakan pengawasan updating blok sensus SBH triwulan III di Kec. Pulau Laut Utara;1;1525219200;2;\N;\N;5/16/2018 19:32;5/16/2018 19:32
+510;196209291982031002;82;666;Melakukan Updating/Listing Rumah Tangga Survei Ubinan Tanaman Pangan Subround 2 Tahun 2018 di Kecamatan Pulau Laut Timur;1;1525219200;\N;\N;\N;5/16/2018 23:40;5/16/2018 23:40
+511;198307172006041019;106;667;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kec. Sungai Durian;1;1526947200;1;\N;\N;5/17/2018 16:20;5/17/2018 16:25
+512;198307172006041019;107;668;Melakukan Pencacahan Pendataan Podes Kecamatan 2018 di Kec. Sungai Durian;1;1525219200;1;\N;\N;5/17/2018 16:25;5/17/2018 16:25
+513;198307172006041019;106;669;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kec. Pamukan Utara;1;1526515200;1;\N;\N;5/17/2018 16:27;5/17/2018 16:27
+514;198307172006041019;107;670;Melakukan Pencacahan Pendataan Podes Kecamatan 2018 di Kec. Pamukan Utara;1;1526515200;1;\N;\N;5/17/2018 16:29;5/17/2018 16:29
+515;196206211984031002;103;671;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Kelumpang Hulu;3;1525219200;\N;\N;\N;5/17/2018 23:20;5/17/2018 23:20
+516;196206211984031002;103;672;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Kelumpang Hulu;2;1526515200;\N;\N;\N;5/17/2018 23:21;5/17/2018 23:21
+517;196206211984031002;103;673;Melakukan Pengawasan Listing Rumah Tangga Survei Pertanian Antar Sensus (SUTAS2018) di Kecamatan Kelumpang Hulu;10;1523836800;\N;\N;\N;5/17/2018 23:21;5/17/2018 23:21
+518;199501012018022001;109;679;Pengawasan Survei Biaya Hidup 2018 Bulan Mei di Desa Batuah;2;1523404800;\N;\N;\N;5/20/2018 20:22;5/20/2018 20:22
+519;199501012018022001;109;680;Pengawasan Survei Biaya Hidup 2018 Bulan Mei di Desa Hilir Muara;2;1523404800;\N;\N;\N;5/20/2018 23:12;5/20/2018 23:12
+520;196209291982031002;122;681;Melakukan Pencacahan Survei Ubinan Tanaman Pangan Subround 2 Tahun 2018 di Kecamatan  Pulau Laut Timur;1;1523404800;\N;\N;\N;5/21/2018 23:49;5/21/2018 23:49
+521;198503152010031001;107;682;Melakukan Pencacahan Pendataan Podes Kecamatan 2018 di Kecamatan Pulau Laut Utara;2;1523404800;\N;\N;\N;5/22/2018 16:57;5/22/2018 16:59
+522;197503111996122001;123;684;Konsultasi Administrasi & Teknis Pelaksanaan SBH 2018 ke BPS Provinsi Kalimantan  Selatan;3;1525219200;2;\N;\N;5/22/2018 18:59;7/4/2018 20:53
+523;199011162014101001;123;685;Konsultasi Administrasi & Teknis Pelaksanaan SBH 2018 ke BPS Provinsi Kalimantan  Selatan;3;1525219200;\N;\N;\N;5/22/2018 19:00;5/22/2018 19:00
+524;197503111996122001;114;683;Melakukan Supervisi Pelaksanaan Pendataan Potensi Desa 2018 di Kecamatan Kelumpang Hulu;1;1525219200;\N;\N;\N;5/22/2018 19:01;5/22/2018 23:32
+525;199101092014102001;123;686;Melakukan Konsultasi Pengolahan SBH 2018 di BPS Provinsi Kalimantan Selatan;3;1525219200;\N;\N;\N;5/22/2018 19:17;5/22/2018 19:17
+526;199301132017011001;93;581;Melakukan Pengawasan Pencacahan KSA 2018 di Kec. Kelumpang Hilir;1;1527120000;\N;\N;\N;5/23/2018 16:36;5/23/2018 16:36
+527;199301132017011001;121;674;Melakukan Pengumpulan Data Penyusunan Publikasi Kotabaru Dalam Angka 2018 di Kotabaru;2;1525219200;\N;\N;\N;5/23/2018 16:41;5/23/2018 16:41
+528;199301132017011001;121;676;Melakukan Pengumpulan Data Penyusunan Publikasi Kotabaru Dalam Angka 2018 di Kotabaru;2;1525219200;\N;\N;\N;5/23/2018 16:42;5/23/2018 16:42
+529;199301132017011001;120;677;Melakukan Pengawasan Pencacahan Survei Kebutuhan Data 2018 di Kotabaru;1;1525219200;\N;\N;\N;5/23/2018 16:42;6/1/2018 18:59
+530;199301132017011001;121;678;Melakukan Pengumpulan Data Penyusunan Publikasi Kotabaru Dalam Angka 2018 di Kotabaru;2;1523404800;\N;\N;\N;5/23/2018 16:43;5/23/2018 16:43
+531;198304042009011011;107;693;Melakukan Pencacahan Pendataan Podes Kecamatan 2018 di Kec. Kelumpang Tengah;1;1522627200;\N;\N;\N;5/23/2018 17:50;5/23/2018 17:50
+532;198304042009011011;106;694;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kec. Kelumpang Tengah;1;1525219200;\N;\N;\N;5/23/2018 17:51;5/23/2018 17:51
+533;198304042009011011;107;695;Melakukan Pencacahan Pendataan Podes Kecamatan 2018 di Kec. Kelumpang Utara;1;1526947200;\N;\N;\N;5/23/2018 17:54;5/23/2018 17:54
+534;198304042009011011;106;696;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kecamatan Kelumpang Utara;1;1527120000;\N;\N;\N;5/23/2018 17:55;5/23/2018 17:55
+535;198602062011011012;124;697;Melakukan Pencacahan Survei Kerangka Sampel Area (KSA) Bulan Mei Tahun 2018 di Kecamatan Pamukan Barat;1;1523404800;\N;\N;\N;5/24/2018 16:20;5/24/2018 16:20
+536;199509162018022001;116;690;Pencacahan Survei Disagregasi PMTB 2018 di Kec. Pulau Laut Utara;2;1522627200;1;\N;\N;5/25/2018 0:55;5/25/2018 0:55
+537;199509162018022001;116;691;Pencacahan Survei Disagregasi PMTB 2018 di Kec. Pulau Laut Utara;1;1522627200;1;\N;\N;5/25/2018 0:57;5/25/2018 0:57
+538;199509162018022001;116;692;Pencacahan Survei Disagregasi PMTB 2018 di Kec. Pulau Laut Utara;1;1523404800;1;\N;\N;5/25/2018 0:57;5/25/2018 0:57
+539;199301132017011001;121;698;Melakukan Pengumpulan Data Penyusunan Publikasi Kotabaru Dalam Angka 2018 di Kotabaru;1;1525219200;\N;\N;\N;5/27/2018 19:43;5/27/2018 19:43
+540;199407142017012001;116;703;Pencacahan Survei Disagregasi PMTB 2018 di Kec. Pulau Laut Utara;1;1525219200;2;\N;\N;5/29/2018 19:31;5/29/2018 19:31
+541;196206211984031002;106;704;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kecamatan Kelumpang Hulu;2;1528070400;\N;\N;\N;5/29/2018 20:24;5/29/2018 20:24
+542;196209291982031002;122;705;Melakukan Pencacahan Survei Ubinan Tanaman Pangan Subround 2 Tahun 2018 di Kecamatan  Pulau Laut Timur;2;1528070400;\N;\N;\N;5/30/2018 22:43;5/30/2018 22:44
+543;199301132017011001;124;706;Melakukan Pencacahan Survei Kerangka Sampel Area (KSA) Bulan Mei Tahun 2018 di Kecamatan Pamukan Selatan;3;1516147200;\N;\N;\N;6/1/2018 17:28;6/1/2018 17:28
+544;199503042017012001;120;707;Melakukan Pengawasan Pencacahan Survei Kebutuhan Data 2018 di Kotabaru;1;1514851200;\N;\N;\N;6/1/2018 18:52;6/1/2018 18:52
+545;199501012018022001;121;702;Melakukan Pengumpulan Data Penyusunan Publikasi Kotabaru Dalam Angka 2018 di Kotabaru;1;1517788800;\N;\N;\N;6/3/2018 16:13;6/3/2018 16:16
+546;199501012018022001;121;701;Melakukan Pengumpulan Data Penyusunan Publikasi Kotabaru Dalam Angka 2018 di Kotabaru;2;1519257600;\N;\N;\N;6/3/2018 16:15;6/3/2018 16:15
+547;199501012018022001;120;700;Melakukan Pencacahan Survei Kebutuhan Data 2018 di Kotabaru;1;1519171200;\N;\N;\N;6/3/2018 16:21;6/3/2018 16:21
+548;199501012018022001;109;708;Melaksanakan pengawasan updating blok sensus SBH triwulan III di Kec. Pulau Laut Utara;1;1525219200;\N;\N;\N;6/3/2018 23:28;6/3/2018 23:28
+549;196206211984031002;109;712;Melakukan Pengawasan SBH Bulan Mei di Kec. Pulau Laut Utara;4;1525219200;2;\N;\N;6/4/2018 17:48;6/4/2018 17:48
+550;197503111996122001;125;713;Pengawasan Survei Disagregasi PMTB di Kecamatan Pulau Laut Selatan;1;1528070400;1;\N;\N;6/4/2018 18:09;6/4/2018 18:09
+551;197503111996122001;125;714;pengawasan survei disagregasi PMTB;1;1528070400;1;\N;\N;6/4/2018 18:18;6/4/2018 18:18
+552;199503042017012001;33;221;Melaksanakan Pengawasan Pencacahan Survei Biaya Hidup Triwulan 1 2018 di Kecamatan Pulau Laut Utara;2;1529539200;\N;\N;\N;6/4/2018 22:47;6/4/2018 22:47
+553;199503042017012001;33;222;Melaksanakan Pengawasan Pencacahan Survei Biaya Hidup Triwulan 1 2018 di Kecamatan Pulau Laut Utara;2;1529539200;\N;\N;\N;6/4/2018 22:49;6/4/2018 22:49
+554;199503042017012001;53;709;Melaksanakan Pengawasan Pencacahan Survei Biaya Hidup Triwulan 1 2018 di Kecamatan Pulau Laut Utara;2;1529539200;\N;\N;\N;6/4/2018 22:51;6/4/2018 22:51
+555;199503042017012001;53;710;Melaksanakan Pengawasan Pencacahan Survei Biaya Hidup Triwulan 1 2018 di Kecamatan Pulau Laut Utara;2;1529539200;\N;\N;\N;6/4/2018 22:52;6/4/2018 22:52
+556;199503042017012001;61;711;Melaksanakan Pengawasan Updating Rumah Tangga Survei Biaya Hidup Triwulan 2 2018 di Kecamatan Pulau Laut Utara;1;1529539200;\N;\N;\N;6/4/2018 22:52;6/4/2018 23:24
+557;197405162006041016;106;719;Melakukan Pengawasan Pendataan Podes Desa 2018 di Kec. Pamukan Selatan;1;1528070400;\N;\N;\N;6/5/2018 20:23;6/5/2018 20:23
+558;197405162006041016;107;720;Melakukan Pencacahan Pendataan Podes Kecamatan 2018 di Kec. Pamukan Selatan;1;1529971200;\N;\N;\N;6/5/2018 20:25;6/5/2018 20:25
+559;196206211984031002;129;721;Melakukan Pencacahan HD / HKD  Bulan Juni di Kec. Kelumpang Hulu;2;1529539200;2;\N;\N;6/20/2018 17:42;6/20/2018 17:42
+560;198304042009011011;130;722;Melakukan Pencacahan VHT-L di Kec. Kelumpang Tengah;1;1527811200;2;\N;\N;6/20/2018 23:34;6/20/2018 23:34
+561;197503111996122001;131;723;Pengawasan Sutas 2018 di Kecamatan Pulau Laut Utara Desa Sarang Tiung;1;1527811200;2;\N;\N;6/22/2018 19:52;6/26/2018 15:27
+562;197503111996122001;131;724;Pengawasan SUTAS 2018 di Kecamatan Sampanahan;1;1527811200;2;\N;\N;6/22/2018 20:03;6/26/2018 15:29
+563;197503111996122001;131;725;Pengawasan SUTAS 2018 di Kecamatan Kelumpang Barat;1;1527811200;2;\N;\N;6/22/2018 20:08;6/26/2018 15:29
+564;197503111996122001;131;726;Pengawasan SUTAS 2018 di Kecamatan Kelumpang Hulu;1;1527811200;2;\N;\N;6/22/2018 20:12;6/26/2018 15:30
+565;197503111996122001;131;727;Pengawasan SUTAS 2018 di Kecamatan Pulau Laut Tanjung Selayar;1;1527811200;2;\N;\N;6/24/2018 16:33;7/1/2018 22:21
+566;199011162014101001;130;728;Melakukan pencacahan VHT-L 2018 di Kecamatan Kelumpang Hilir;1;1527811200;2;\N;\N;6/25/2018 15:40;6/25/2018 15:40
+567;199011162014101001;132;729;Konsultasi Administrasi & Teknis Pelaksanaan SBH 2018 ke BPS Provinsi Kalimantan  Selatan;3;1525219200;2;\N;\N;6/25/2018 15:50;6/25/2018 15:50
+568;197503111996122001;131;730;Pengawasan SUTAS 2018 di Kecamatan Pulau Laut Barat;1;1525219200;2;\N;\N;6/25/2018 19:18;6/26/2018 15:31
+570;199507142018022002;126;732;Melakukan Pengawasan Pencacahan SBH di Desa Baharu Utara;1;1525219200;\N;\N;\N;6/26/2018 0:07;6/28/2018 0:13
+571;199507142018022002;126;733;Melakukan Pengawasan Pencacahan SBH di Desa Baharu Utara;1;1527811200;\N;\N;\N;6/26/2018 0:08;6/28/2018 0:13
+572;199507142018022002;126;734;Melakukan Pengawasan Pencacahan SBH di Desa Baharu Utara;1;1527811200;\N;\N;\N;6/26/2018 0:09;6/28/2018 0:14
+573;199507142018022002;126;735;Melakukan Pengawasan Pencacahan SBH di Desa Baharu Utara;2;1527811200;\N;\N;\N;6/26/2018 0:10;6/28/2018 0:14
+574;199507142018022002;126;736;Melakukan Pengawasan Pencacahan SBH 2018 di Desa Baharu Utara;1;1530489600;\N;\N;\N;6/28/2018 0:13;6/28/2018 0:13
+575;196206211984031002;126;737;Melakukan Pengawasan Pencacahan SBH di Desa Baharu Selatan;4;1528070400;2;\N;\N;7/9/2018 18:31;7/9/2018 18:33
+576;196206211984031002;126;738;Melakukan Pengawasan Pencacahan SBH di Desa Baharu Selatan;2;1523836800;2;\N;\N;7/9/2018 18:34;7/9/2018 18:34
+577;198602062011011012;109;744;Melaksanakan Pengawasan SBH Bulan Mei 2018 di Kec. Pulau Laut Utara;2;1530576000;2;\N;\N;7/11/2018 18:07;7/11/2018 18:07
+578;198602062011011012;109;745;Melaksanakan Pengawasan SBH Bulan Mei 2018 di Kec. Pulau Laut Utara;2;1530489600;2;\N;\N;7/11/2018 18:08;7/11/2018 18:08
+579;198602062011011012;109;746;Melaksanakan Pengawasan SBH Bulan Mei 2018 di Kec. Pulau Laut Utara;1;1519171200;1;\N;\N;7/11/2018 18:10;7/11/2018 18:10
+580;198602062011011012;126;742;Melaksanakan Pengawasan SBH Bulan Juni 2018 di Kec. Pulau Laut Utara;2;1519171200;2;\N;\N;7/11/2018 18:11;7/11/2018 18:11
+581;198602062011011012;126;743;Melaksanakan Pengawasan SBH Bulan Juni 2018 di Kec. Pulau Laut Utara;3;1530662400;2;\N;\N;7/11/2018 18:11;7/11/2018 18:11
+582;198602062011011012;126;747;Melaksanakan Pengawasan SBH Bulan Juni 2018 di Kec. Pulau Laut Utara;1;1529625600;2;\N;\N;7/11/2018 18:25;7/11/2018 18:25
+583;198602062011011012;133;741;Melaksanakan Pengawasan SBH Bulan Juli 2018 di Kec. Pulau Laut Utara;4;1532304000;2;\N;\N;7/11/2018 18:27;7/11/2018 18:27
+584;198602062011011012;130;739;Melaksanakan Pencacahan Survei VHTL di Kec. Pamukan Barat;1;1532390400;2;\N;\N;7/11/2018 18:33;7/11/2018 18:33
+585;198602062011011012;64;740;Melaksanakan Pengumpulan Data Kecamatan dalam Angka (KCA) 2018 di Kec. Pamukan Barat;3;1531785600;3;\N;\N;7/11/2018 18:34;7/30/2018 21:35
+586;197501051997121001;134;748;Konsultasi Data SIMAK BMN di BPS Provinsi Kalsel dan Rekonsiliasi Barang Milik Negara Semester I Tahun 2018 di KPKNL Banjarmasin;3;1530489600;2;\N;\N;7/12/2018 17:38;7/12/2018 17:38
+587;197405162006041016;130;749;Melaksanakan pencacahan Survei VHT-L 2018 di Kecamatan Pulau Laut Utara;1;1530489600;2;\N;\N;7/15/2018 17:49;7/15/2018 17:49
+589;198304042009011011;64;751;Melaksanakan Pengumpulan Data Kecamatan dalam Angka (KCA) 2018 di Kecamatan Kelumpang Tengah;3;1530489600;2;\N;\N;7/17/2018 23:27;7/17/2018 23:27
+590;198304042009011011;64;752;Melaksanakan Pengumpulan Data Kecamatan dalam Angka (KCA) 2018 di Kecamatan Kelumpang Utara;3;1530489600;2;\N;\N;7/17/2018 23:28;7/17/2018 23:28
+591;196206211984031002;129;753;Melakukan Pencacahan Survei HD dan HKD di Kecamatan Kelumpang Hulu;2;1530489600;2;\N;\N;7/19/2018 17:09;7/19/2018 17:09
+592;198602062011011012;136;754;Melakukan Pencacahan Survei Kerangka Sampel Area (KSA) Bulan Juni Tahun 2018 di Kecamatan Pamukan Barat;1;1530489600;\N;\N;\N;7/23/2018 17:13;7/23/2018 17:13
+593;198602062011011012;137;755;Melakukan Pencacahan Survei Kerangka Sampel Area (KSA) Bulan Juli Tahun 2018 di Kecamatan Pamukan Barat;1;1530489600;\N;\N;\N;7/23/2018 17:14;7/23/2018 17:14
+594;197503111996122001;63;756;Rapat Tindak Lanjut Hasil Pembinaan CAN 2018 di BPS Provinsi Kalimantan Selatan;3;1530489600;2;\N;\N;7/23/2018 20:13;7/23/2018 20:13
+595;197503111996122001;138;757;Pengawasan dan Pencacahan KSA Juli 2018 di Pamukan Selatan;1;1530489600;2;\N;\N;7/23/2018 22:44;7/23/2018 22:44
+596;198602062011011012;133;758;Melaksanakan Pengawasan SBH Bulan Juli 2018 di Kec. Pulau Laut Utara;1;1532390400;2;\N;\N;7/24/2018 17:13;7/24/2018 17:13
+597;198602062011011012;133;759;Melaksanakan Pengawasan SBH Bulan Juli 2018 di Kec. Pulau Laut Utara;1;1532390400;2;\N;\N;7/24/2018 17:14;7/24/2018 17:14
+598;198602062011011012;133;760;Melaksanakan Pengawasan SBH Bulan Juli 2018 di Kec. Pulau Laut Utara;2;1532649600;2;\N;\N;7/24/2018 17:15;7/24/2018 17:15
+599;197001122009011008;133;761;Melaksanakan Pengawasan SBH Bulan Juli 2018 di Kec. Pulau Laut Utara;1;1532649600;2;\N;\N;7/24/2018 17:37;7/24/2018 17:37
+600;197001122009011008;133;762;Melaksanakan Pengawasan SBH Bulan Juli 2018 di Kec. Pulau Laut Utara;2;1532649600;2;\N;\N;7/24/2018 17:39;7/24/2018 17:39
+601;197001122009011008;133;763;Melaksanakan Pengawasan SBH Bulan Juli 2018 di Kec. Pulau Laut Utara;3;1524787200;2;\N;\N;7/24/2018 17:40;7/24/2018 17:40
+602;197001122009011008;133;764;Melaksanakan Pengawasan SBH Bulan Juli 2018 di Kec. Pulau Laut Utara;2;1530489600;2;\N;\N;7/24/2018 17:41;7/24/2018 17:41
+603;197001122009011008;141;765;Melaksanakan Pengawasan SBH Bulan Juli 2018 di Kec. Pulau Laut Utara;1;1530489600;2;\N;\N;7/24/2018 17:41;7/24/2018 17:41
+604;197001122009011008;142;766;Melaksanakan Pencacahan VHT-S Bulan Juli 2018 di Kec. Pulau Laut Utara;1;1532649600;2;\N;\N;7/24/2018 17:43;7/24/2018 17:43
+605;199011162014101001;140;767;Melaksanakan Pencacahan Survei IKK Triwulan III 2018 di Kec. Pulau Laut Utara;1;1527897600;2;\N;\N;7/24/2018 17:53;7/24/2018 17:53
+606;199011162014101001;139;768;Melaksanakan Pencacahan Survei Keuangan 2018 di Kabupaten Kotabaru;1;1530489600;2;\N;\N;7/24/2018 17:55;7/24/2018 17:55
+607;199101092014102001;143;769;Melaksanakan Pencacahan Survei Khusus Tabungan dan Investasi Rumah Tangga (SKTIR) tahun 2018;1;1530489600;\N;\N;\N;7/26/2018 18:16;7/26/2018 18:16
+608;199011162014101001;143;770;Melakukan Pencacahan Survei Khusus Tabungan dan Investasi Rumah Tangga (SKTIR) tahun 2018;1;1533168000;\N;\N;\N;7/26/2018 18:18;7/26/2018 18:18
+609;197001122009011008;143;771;Melakukan Pencacahan Survei Khusus Tabungan dan Investasi Rumah Tangga (SKTIR) tahun 2018;1;1530489600;\N;\N;\N;7/26/2018 18:20;7/26/2018 18:20
+610;199503042017012001;116;773;Melakukan Supervisi PMTB 2018;1;1530489600;\N;\N;\N;7/26/2018 18:33;7/26/2018 18:33
+611;199407142017012001;133;774;Pengawasan Survei Biaya Hidup 2018 Bulan Juli;11;1525392000;2;\N;\N;7/26/2018 18:34;7/26/2018 18:34
+612;199407142017012001;133;775;Pengawasan Survei Biaya Hidup 2018 Bulan Juli;5;1530489600;2;\N;\N;7/26/2018 18:35;7/26/2018 18:35
+613;199503042017012001;143;777;Melaksanakan Pengawasan Survei Khusus Tabungan dan Investasi Rumah Tangga (SKTIR) tahun 2018;1;1533081600;\N;\N;\N;7/26/2018 18:37;7/26/2018 18:37
+614;199407142017012001;126;776;Pengawasan Survei Biaya Hidup 2018 Bulan Juni;6;1533081600;2;\N;\N;7/26/2018 18:38;7/26/2018 18:38
+615;196206211984031002;133;778;Pengawasan Survei Biaya Hidup 2018 Bulan Juli;3;1533081600;2;\N;\N;7/29/2018 17:57;7/29/2018 17:57
+616;196206211984031002;109;779;Melaksanakan Pengawasan Updating Listing SBH Triwulan III di Kecamatan Pulau Laut Utara;1;1533081600;2;\N;\N;7/30/2018 16:21;7/30/2018 16:21
+617;197503111996122001;144;782;Evaluasi SAKIP 2018 di BPS Provinsi Kalimantan Selatan;1;1533081600;2;\N;\N;8/1/2018 22:33;8/1/2018 22:33
+618;197503111996122001;145;783;Penugasan ke Kota Banjarbaru dalam rangka mengurus Administrasi di KBM dan Pengrajin Sasirangan;1;1525219200;2;\N;\N;8/1/2018 23:23;8/1/2018 23:23
+620;196206211984031002;133;785;Melakukan Pengawasan SBH Bulan Juli di Kec. Pulau Laut Utara;3;1525219200;2;\N;\N;8/2/2018 0:28;8/2/2018 0:28
+621;198602062011011012;107;786;Pencacahan Pendataan PODES Kecamatan di Kecamatan Pamukan Barat tahun 2018;1;1527811200;2;\N;\N;8/2/2018 16:25;8/2/2018 16:26
+622;196206211984031002;133;787;Melakukan Pengawasan SBH bulan Juli di Kecamatan Pulau Laut Utara;4;1527811200;4;\N;\N;8/2/2018 16:38;8/2/2018 16:38
+623;198409192006041004;146;788;Melakukan pencacahan Survei Harga Perdagangan Besar Bulan Agustus;1;1532390400;2;\N;\N;8/2/2018 16:47;8/2/2018 16:47
+626;198602062011011012;149;790;Melakukan Pengawasan Pencacahan SBH Bulan Agustus di Kecamatan Pulau Laut Utara;2;1532304000;2;\N;\N;8/5/2018 18:41;8/5/2018 18:41
+627;198602062011011012;147;793;Melakukan Pencacahan Survei VHT-S Bulan Agustus di Kecamatan Pulau Laut Utara;1;1534118400;2;\N;\N;8/5/2018 18:48;8/5/2018 18:48
+628;198602062011011012;146;794;Melakukan Pencacahan Survei Harga Perdagangan Besar Bulan Agustus di Kecamatan Pulau Laut Utara;1;1534118400;2;\N;\N;8/5/2018 18:49;8/5/2018 18:49
+629;197405162006041016;146;795;Melakukan Pencacahan Survei Harga Perdagangan Besar di Kecamatan Pulau Laut Utara;1;1534118400;2;\N;\N;8/6/2018 15:55;8/6/2018 15:55
+630;198304042009011011;109;796;Melakukan Pengawasan Pencacahan SBH Bulan Mei di Kec. Pulau Laut Utara;4;1519948800;2;\N;\N;8/6/2018 18:58;8/6/2018 18:58
+631;198304042009011011;109;797;Melakukan Pengawasan Updating Blok Sensus SBH TW III di Kec. Pulau Laut Utara;1;1519948800;2;\N;\N;8/6/2018 18:59;8/6/2018 18:59
+632;198304042009011011;126;798;Melakukan Pengawasan Pencacahan SBH Bulan Juni di Kec. Pulau Laut Utara;4;1519948800;2;\N;\N;8/6/2018 19:00;8/6/2018 19:00
+633;198304042009011011;126;799;Melakukan Pengawasan Pencacahan SBH Bulan Juni (Dokumen HR dan S) di Kec. Pulau Laut Utara;2;1519948800;2;\N;\N;8/6/2018 19:01;8/6/2018 19:01
+634;199011162014101001;140;800;Melakukan Pencacahan Survei IKK di Kecamatan Pulau Laut Utara;1;1519948800;2;\N;\N;8/6/2018 22:36;8/6/2018 22:36
+635;197405162006041016;137;789;Melakukan Pencacahan Survei Kerangka Sampel Area (KSA) Bulan Juli Tahun 2018 di Kecamatan Pamukan Selatan;4;1519862400;\N;\N;\N;8/7/2018 15:54;8/7/2018 15:55
+636;197503111996122001;152;802;Supervisi SAKERNAS Agustus 2018 di Kecamatan Pulau Laut Utara;1;1519862400;2;\N;\N;8/13/2018 17:31;8/13/2018 17:31
+637;197503111996122001;152;803;Supervisi SAKERNAS Agustus 2018 di Kecamatan Kelumpang Hulu;1;1519862400;2;\N;\N;8/13/2018 17:37;8/13/2018 17:37
+638;197503111996122001;153;804;Pengawasan Kabupaten Kota Wisatawan Nusantara (WISNUS) Agustus Tahun 2018 di kecamatan Sungai Durian;1;1533081600;2;\N;\N;8/13/2018 19:50;8/13/2018 19:50
+639;197405162006041016;66;806;Pengawasan Survei Biaya Hidup 2018 Bulan Maret;3;3/2/2018;2;\N;\N;8/14/2018 16:26;8/14/2018 16:26
+640;197405162006041016;66;807;Pengawasan Survei Biaya Hidup 2018 Bulan Maret;2;3/2/2018;2;\N;\N;8/14/2018 16:27;8/14/2018 16:27
+641;197405162006041016;66;808;Pengawasan Survei Biaya Hidup 2018 Bulan Maret;2;3/2/2018;2;\N;\N;8/14/2018 16:27;8/14/2018 16:27
+642;197405162006041016;66;809;Pengawasan Survei Biaya Hidup 2018 Bulan Maret;1;3/2/2018;2;\N;\N;8/14/2018 16:28;8/14/2018 16:28
+643;197405162006041016;66;810;Pengawasan Survei Biaya Hidup 2018 Bulan Maret;4;3/2/2018;2;\N;\N;8/14/2018 16:28;8/14/2018 16:28
+644;198404262009082001;66;811;Melaksanakan Pengawasan Pencacahan SBH Bulan Maret di Kec. Pulau Laut Utara;4;3/1/2018;2;\N;\N;8/15/2018 20:00;8/15/2018 20:00
+645;198404262009082001;66;812;Melaksanakan Pengawasan Pencacahan SBH Bulan Maret di Kec. Pulau Laut Utara;4;3/1/2018;2;\N;\N;8/15/2018 20:01;8/15/2018 20:01
+646;198404262009082001;66;813;Melaksanakan Pengawasan Pencacahan SBH Bulan Maret di Kec. Pulau Laut Utara;4;3/1/2018;2;\N;\N;8/15/2018 20:02;8/15/2018 20:02
+647;196206211984031002;148;825;Melaksanakan Pencacahan Survei HD dan HKD Bulan Agustus di Kecamatan Kelumpang Hulu;2;8/1/2018;2;\N;\N;8/15/2018 20:09;8/15/2018 20:09
