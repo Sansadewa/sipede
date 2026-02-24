@@ -52,3 +52,80 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'main';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+
+/*
+| -------------------------------------------------------------------------
+| CASE-SENSITIVE ROUTING FOR LINUX
+| -------------------------------------------------------------------------
+| Map lowercase URIs to properly-cased controller names for case-sensitive
+| filesystems. This ensures CI can find controllers regardless of URI casing.
+*/
+
+// Main Controllers (mixed case names)
+$route['export'] = 'Export';
+$route['export/(:any)'] = 'Export/$1';
+
+$route['forbidden'] = 'Forbidden';
+$route['forbidden/(:any)'] = 'Forbidden/$1';
+
+$route['kabps'] = 'Kabps';
+$route['kabps/(:any)'] = 'Kabps/$1';
+
+$route['kegiatan'] = 'Kegiatan';
+$route['kegiatan/(:any)'] = 'Kegiatan/$1';
+
+$route['kelola_nomor_surat'] = 'KelolaNomorSurat';
+$route['kelola_nomor_surat/(:any)'] = 'KelolaNomorSurat/$1';
+
+// Alias for kelolanomorsurat (used in some view files without underscores)
+$route['kelolanomorsurat'] = 'KelolaNomorSurat';
+$route['kelolanomorsurat/(:any)'] = 'KelolaNomorSurat/$1';
+
+$route['kelola_no_sppd'] = 'Kelola_no_sppd';
+$route['kelola_no_sppd/(:any)'] = 'Kelola_no_sppd/$1';
+
+$route['kelola_no_surat'] = 'Kelola_no_surat';
+$route['kelola_no_surat/(:any)'] = 'Kelola_no_surat/$1';
+
+$route['laporan'] = 'Laporan';
+$route['laporan/(:any)'] = 'Laporan/$1';
+
+$route['main'] = 'Main';
+$route['main/(:any)'] = 'Main/$1';
+
+$route['master_aplikasi'] = 'Master_aplikasi';
+$route['master_aplikasi/(:any)'] = 'Master_aplikasi/$1';
+
+$route['master_data'] = 'Master_data';
+$route['master_data/(:any)'] = 'Master_data/$1';
+
+$route['matriks_kegiatan'] = 'Matriks_kegiatan';
+$route['matriks_kegiatan/(:any)'] = 'Matriks_kegiatan/$1';
+
+$route['pegawai'] = 'Pegawai';
+$route['pegawai/(:any)'] = 'Pegawai/$1';
+
+$route['persetujuan_ppk'] = 'Persetujuan_ppk';
+$route['persetujuan_ppk/(:any)'] = 'Persetujuan_ppk/$1';
+
+$route['presensi'] = 'Presensi';
+$route['presensi/(:any)'] = 'Presensi/$1';
+
+$route['spd'] = 'Spd';
+$route['spd/(:any)'] = 'Spd/$1';
+
+$route['surat_bayar'] = 'Surat_bayar';
+$route['surat_bayar/(:any)'] = 'Surat_bayar/$1';
+
+$route['user'] = 'User';
+$route['user/(:any)'] = 'User/$1';
+
+// API Controllers (subdirectory)
+$route['api/absensi'] = 'api/Absensi';
+$route['api/absensi/(:any)'] = 'api/Absensi/$1';
+
+$route['api/main'] = 'api/Main';
+$route['api/main/(:any)'] = 'api/Main/$1';
+
+$route['api/olah_presensi'] = 'api/Olah_presensi';
+$route['api/olah_presensi/(:any)'] = 'api/Olah_presensi/$1';

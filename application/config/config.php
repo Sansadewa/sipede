@@ -37,7 +37,7 @@ if (isset($_SERVER['HTTPS']) && ($_SERVER['HTTPS'] == 'on' || $_SERVER['HTTPS'] 
 
 }
 
-$config['base_url'] = $protocol . '://'.strtolower($_SERVER['SERVER_NAME']).'/sipede/';
+$config['base_url'] = $protocol . '://'.$_SERVER['SERVER_NAME'].'/sipede/';
 
 /*
 |--------------------------------------------------------------------------
