@@ -163,6 +163,8 @@ $waktu = explode('-', date("Y-m-d"));
                  <?php
                       $data = array( 'id' => "formsurat");
                       echo form_open(base_url('/kelolanomorsurat/tambah'),$data);  ?>
+                 <input type="hidden" name="_form_action_single" value="<?php echo base_url('/kelolanomorsurat/tambah') ?>">
+                 <input type="hidden" name="_form_action_range"  value="<?php echo base_url('/kelolanomorsurat/tambah_range') ?>">
                  
                  <div class="form-group" id="dynamic_form">
                   <hr>
@@ -304,9 +306,33 @@ $waktu = explode('-', date("Y-m-d"));
                           <p id="kode2alert" class="form-text text-danger"><b>Kode Minimal 6 Karakter</b></p>
                           <p id="kode2help" class="form-text text-primary">Klasifikasi yang direkomendasikan sistem: <b><span id="rekomenkode">{Silahkan isi kategori}</span></b>&nbsp; <span id="recommend-button" class="" style="display:none; border-radius:7rem;"><a class="btn btn-sm btn-info text-white"><i class="nav-icon fa fa-hand-point-up fa-fw"></i> Gunakan!</a></span></p>
                         </div>
-                        <div class="form-group col-lg-6 col-md-12 ">
-                          <label>Nomor Surat<span style="color: red;">*</span></label>
-                          <input type="text" name="nomor" class="form-control" id="nomor" oninput="validateNomor(this)" placeholder="Dianjurkan diisi sesuai rekomendasi sistem" required>
+                        <div class="form-group col-lg-6 col-md-12">
+                          <div class="d-flex align-items-center mb-2" style="gap: 0.6rem;">
+                            <label class="mb-0">Nomor Surat<span style="color: red;">*</span></label>
+                            <div class="custom-control custom-switch ml-auto">
+                              <input type="checkbox" class="custom-control-input" id="rangeToggle" onchange="toggleRangeMode(this)">
+                              <label class="custom-control-label" for="rangeToggle" style="font-size:0.85rem; cursor:pointer;">Pesan Range</label>
+                            </div>
+                          </div>
+
+                          <!-- Single nomor -->
+                          <div id="nomor-single">
+                            <input type="text" name="nomor" class="form-control" id="nomor" oninput="validateNomor(this)" placeholder="Dianjurkan diisi sesuai rekomendasi sistem" required>
+                          </div>
+
+                          <!-- Range nomor (hidden by default) -->
+                          <div id="nomor-range" style="display:none;">
+                            <div class="input-group">
+                              <input type="number" name="nomor_awal" class="form-control" id="nomor_awal" placeholder="Nomor Awal" min="1" oninput="updateRangeInfo()">
+                              <div class="input-group-prepend input-group-append">
+                                <span class="input-group-text">s/d</span>
+                              </div>
+                              <input type="number" name="nomor_akhir" class="form-control" id="nomor_akhir" placeholder="Nomor Akhir" min="1" oninput="updateRangeInfo()">
+                            </div>
+                            <p id="range-info" class="form-text text-info mt-1"></p>
+                            <p id="range-error" class="form-text text-danger mt-0" style="display:none;"></p>
+                          </div>
+
                           <p id="nomor2alert" class="form-text text-danger"><b>Nomor Minimal 4 Digit Sebelum Titik</b></p>
                           <p id="nomor2help" class="form-text text-primary">Nomor yang direkomendasikan sistem: <b><span id="rekomennomor">{Silahkan pilih kode organisasi}</span></b>&nbsp; <span id="recommendnomor-button" class="" style="display:none; border-radius:7rem;"><a class="btn btn-sm btn-info text-white"><i class="nav-icon fa fa-hand-point-up fa-fw"></i> Gunakan!</a></span></p>
                         </div>
@@ -337,6 +363,16 @@ $waktu = explode('-', date("Y-m-d"));
                       <div class="form-group row ">
                        <label>Catatan</label>
                          <textarea type="textarea" name="catatan" class="form-control" id="catatan" placeholder="Catatan"></textarea>
+                      </div>
+
+                      <div class="form-group row">
+                        <label>Tipe Tandatangan<span style="color: red;">*</span></label>
+                        <select name="tipe_tandatangan" id="tipe_tandatangan" class="form-control select2" required>
+                          <option value="" hidden disabled selected>-Pilih Tipe Tandatangan-</option>
+                          <option value="Srikandi">Srikandi</option>
+                          <option value="E-TTD">E-TTD</option>
+                          <option value="Basah/Konvensional">Basah/Konvensional</option>
+                        </select>
                       </div>
                     </div>
                   </div>
@@ -488,7 +524,12 @@ $waktu = explode('-', date("Y-m-d"));
 
   $("#recommendnomor-button").on("click", function() {
     var rekomenomorValue = $("#rekomennomor").text();
-    $("#nomor").val(rekomenomorValue);
+    if($("#rangeToggle").is(":checked")){
+      $("#nomor_awal").val(parseInt(rekomenomorValue));
+      updateRangeInfo();
+    } else {
+      $("#nomor").val(rekomenomorValue);
+    }
   });
 
 
@@ -568,17 +609,6 @@ function cekform() {
   let requiredselects = $("#formsurat").find("select[required]")
   let formIsValid = true;
   let errorField = $("body").find(".errorinput");
-  
-  // if(!$("#jenis").value){
-  //   $("#jenis").focus();
-  //   formIsValid = false;
-  // }
-
-  // if(!$("#kode_organisasi").value){
-  //   $("#kode_organisasi").focus();
-  //   $("#kode_organisasi").select2('open')
-  //   formIsValid = false;
-  // }
 
   requiredinputs.each(function() {
     if ($(this).val() === "") {
@@ -600,14 +630,20 @@ function cekform() {
     errorField.focus();
     formIsValid = false;
     return false;
-  } 
+  }
 
-  if (formIsValid) { {
+  // validasi tambahan untuk mode range
+  if($("#rangeToggle").is(":checked")){
+    if(!validateRange()) {
+      formIsValid = false;
+      return false;
+    }
+  }
+
+  if (formIsValid) {
     document.getElementById("formsurat").submit();
     return true;
   }
-
-  };
 }
 
 function validateNomor(input) {
@@ -652,6 +688,10 @@ function validateNomor(input) {
 
     //destroy nomor surat
     $("#nomor").val("");
+    $("#nomor_awal").val("");
+    $("#nomor_akhir").val("");
+    $("#range-info").text("");
+    $("#range-error").hide();
     $("#rekomennomor").text("{Silahkan pilih kode organisasi}");
     
     //enable tim kerja
@@ -667,6 +707,9 @@ function validateNomor(input) {
 
     //tujuan dikosongin lagi
     $("#catatan").val("");
+
+    //tipe tandatangan di-reset
+    $("#tipe_tandatangan").val("").trigger("change");
  }
 
  //APABILA KATEGORI 1 ADA PERUBAHAN
@@ -897,13 +940,14 @@ function paramnomor_changed(){
   var jenis = document.getElementById("jenissurat").value;
   var tanggalnya = $("#tanggal").datepicker('getDate')
   tanggalnya = tanggalnya.getFullYear()
-  // console.log( JSON.stringify(tanggalnya))
   if(kodeorgan!=""){
     get_nomor_surat(tanggalnya, kodeorgan, jenis).then(nomor => {
-      // $("#nomor").val(nomor);
       $("#rekomennomor").text(nomor).trigger("change");
-      
-      // console.log('bro'+nomor)
+      // jika sedang dalam mode range, pre-fill nomor_awal juga
+      if($("#rangeToggle").is(":checked") && $("#nomor_awal").val() === ""){
+        $("#nomor_awal").val(nomor);
+        updateRangeInfo();
+      }
     }).catch(error => {
       // error: handle the error here
     });
@@ -967,6 +1011,87 @@ function get_nomor_surat(tahunnya,kodeorgan,jenisnya){
       $("#nomor").prop("readonly", true);
     }
  }
+
+function toggleRangeMode(checkbox) {
+  var actionSingle = $("input[name='_form_action_single']").val();
+  var actionRange  = $("input[name='_form_action_range']").val();
+
+  if(checkbox.checked){
+    // switch to range mode
+    $("#nomor-single").hide();
+    $("#nomor").prop("required", false).val("");
+
+    $("#nomor-range").show();
+    $("#nomor_awal").prop("required", true);
+    $("#nomor_akhir").prop("required", true);
+
+    // pre-fill nomor_awal from recommendation if available
+    var rekomen = $("#rekomennomor").text();
+    if(rekomen && !isNaN(parseInt(rekomen)) && $("#nomor_awal").val() === ""){
+      $("#nomor_awal").val(parseInt(rekomen));
+      updateRangeInfo();
+    }
+
+    $("#formsurat").attr("action", actionRange);
+  } else {
+    // switch back to single mode
+    $("#nomor-range").hide();
+    $("#nomor_awal").prop("required", false).val("");
+    $("#nomor_akhir").prop("required", false).val("");
+    $("#range-info").text("");
+    $("#range-error").hide();
+
+    $("#nomor-single").show();
+    $("#nomor").prop("required", true);
+
+    $("#formsurat").attr("action", actionSingle);
+  }
+}
+
+function updateRangeInfo() {
+  var awal  = parseInt($("#nomor_awal").val());
+  var akhir = parseInt($("#nomor_akhir").val());
+
+  $("#range-error").hide();
+  $("#range-info").text("");
+
+  if(isNaN(awal) || isNaN(akhir)) return;
+
+  var jumlah = akhir - awal + 1;
+
+  if(akhir < awal){
+    $("#range-error").text("Nomor Akhir tidak boleh lebih kecil dari Nomor Awal").show();
+    return;
+  }
+  if(jumlah > 50){
+    $("#range-error").text("Maksimal 50 nomor sekaligus (saat ini: " + jumlah + ")").show();
+    return;
+  }
+  $("#range-info").text("Akan memesan " + jumlah + " nomor (" + awal + " s/d " + akhir + ")");
+}
+
+function validateRange() {
+  var awal  = parseInt($("#nomor_awal").val());
+  var akhir = parseInt($("#nomor_akhir").val());
+
+  if(isNaN(awal) || isNaN(akhir)){
+    alert("Nomor Awal dan Nomor Akhir harus diisi.");
+    $("#nomor_awal").focus();
+    return false;
+  }
+  if(akhir < awal){
+    alert("Nomor Akhir tidak boleh lebih kecil dari Nomor Awal.");
+    $("#nomor_akhir").focus();
+    return false;
+  }
+  var jumlah = akhir - awal + 1;
+  if(jumlah > 50){
+    alert("Maksimal pemesanan range adalah 50 nomor sekaligus (diminta: " + jumlah + ").");
+    $("#nomor_akhir").focus();
+    return false;
+  }
+  return true;
+}
 
 
 // var dynamic_form =  $("#dynamic_form").dynamicForm("#dynamic_form","#plus", "#minus", {

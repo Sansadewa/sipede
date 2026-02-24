@@ -210,6 +210,63 @@ class KelolaNomorSurat extends MY_Controller
 			redirect('kelolanomorsurat/add_form');
 		}
 	}
+	function tambah_range(){
+		if($this->input->post()){
+
+			$post = $this->input->post();
+
+			$nomor_awal  = (int)$post['nomor_awal'];
+			$nomor_akhir = (int)$post['nomor_akhir'];
+
+			// validasi: harus angka
+			if(!is_numeric($post['nomor_awal']) || !is_numeric($post['nomor_akhir'])){
+				$this->session->set_flashdata('danger', 'Nomor Awal dan Nomor Akhir harus berupa angka');
+				redirect('kelolanomorsurat/add_form');
+				exit();
+			}
+
+			// validasi: nomor_akhir >= nomor_awal
+			if($nomor_akhir < $nomor_awal){
+				$this->session->set_flashdata('danger', 'Nomor Akhir tidak boleh lebih kecil dari Nomor Awal');
+				redirect('kelolanomorsurat/add_form');
+				exit();
+			}
+
+			// validasi: maksimal 50 nomor
+			$jumlah = $nomor_akhir - $nomor_awal + 1;
+			if($jumlah > 50){
+				$this->session->set_flashdata('danger', 'Maksimal pemesanan range adalah 50 nomor sekaligus (diminta: '.$jumlah.')');
+				redirect('kelolanomorsurat/add_form');
+				exit();
+			}
+
+			// cek konflik
+			$konflik = $this->suratbaru_model->validate_nomor_range($nomor_awal, $nomor_akhir, $post['tanggal'], $post['kode_organisasi'], $post['jenissurat']);
+			if(!empty($konflik)){
+				$konflik_list = implode(', ', array_map(function($row){ return '<b>'.$row->full_kode.'</b>'; }, $konflik));
+				$this->session->set_flashdata('danger', 'Beberapa nomor sudah ada: '.$konflik_list.' <a href="'.base_url('/kelolanomorsurat').'">Lihat Daftar Surat</a>');
+				redirect('kelolanomorsurat/add_form');
+				exit();
+			}
+
+			// simpan batch
+			$full_kodes = $this->suratbaru_model->tambah_batch($post, $nomor_awal, $nomor_akhir);
+			$kode_items = implode('', array_map(function($k){
+				$k_escaped = htmlspecialchars($k, ENT_QUOTES);
+				return '<li><b>'.$k_escaped.'</b> &nbsp;<a href="#" class="btn btn-sm btn-success py-0" onclick="navigator.clipboard.writeText(\''.$k_escaped.'\'); return false;">Copy</a></li>';
+			}, $full_kodes));
+			$flash  = '<b>Berhasil memesan '.$jumlah.' nomor surat!</b>';
+			$flash .= '<ul class="mb-1 mt-1" style="max-height:160px; overflow-y:auto;">'.$kode_items.'</ul>';
+			$flash .= '<a href="'.base_url('/kelolanomorsurat').'" class="btn btn-sm btn-info">Lihat Daftar Surat</a>';
+			$this->session->set_flashdata('success', $flash);
+			redirect('kelolanomorsurat/add_form');
+
+		} else {
+			$this->session->set_flashdata('warning', 'No data');
+			redirect('kelolanomorsurat/add_form');
+		}
+	}
+
 	function edit(){
 		$this->suratbaru_model->edit($this->input->post());
 		$this->session->set_flashdata('success', 'Nomor Surat Berhasil diedit');

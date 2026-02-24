@@ -53,6 +53,54 @@ class Suratbaru_model extends CI_Model
 			return $q->row();
     }
 
+    function validate_nomor_range($nomor_awal, $nomor_akhir, $datetime, $kodeorg, $jenissurat){
+			$this->db->where('kode_organisasi', $kodeorg);
+			$this->db->where('jenis_surat', $jenissurat);
+			$this->db->where('YEAR(tanggal_surat)', date('Y', strtotime($datetime)));
+			$this->db->where('CAST(nomor AS SIGNED) >=', (int)$nomor_awal);
+			$this->db->where('CAST(nomor AS SIGNED) <=', (int)$nomor_akhir);
+			$q=$this->db->get('no_surat_baru');
+			return $q->result();
+    }
+
+    function tambah_batch($post, $nomor_awal, $nomor_akhir){
+		$batch = array();
+		$full_kodes = array();
+		$tanggal = date('Y-m-d', strtotime($post['tanggal']));
+		$tahun = date('Y', strtotime($post['tanggal']));
+
+		for ($nomor = (int)$nomor_awal; $nomor <= (int)$nomor_akhir; $nomor++) {
+			$isian = array(
+				'sifat'            => $post['sifat'],
+				'kode_organisasi'  => $post['kode_organisasi'],
+				'nomor'            => $nomor,
+				'jenis_surat'      => $post['jenissurat'],
+				'kode'             => $post['kode'],
+				'kategori1'        => $post['kategori1'],
+				'kategori2'        => $post['kategori2'],
+				'kategori3'        => $post['kategori3'],
+				'kategori4'        => $post['kategori4'],
+				'tim_kerja'        => $post['timkerja'],
+				'tujuan'           => $post['tujuan'],
+				'perihal'          => $post['perihal'],
+				'catatan'          => $post['catatan'],
+				'tipe_tandatangan' => isset($post['tipe_tandatangan']) ? $post['tipe_tandatangan'] : '',
+				'pembuat'          => $this->session->userdata('username'),
+				'tanggal_surat'    => $tanggal,
+			);
+			if ($post['jenissurat'] != 1) {
+				$isian['full_kode'] = ($post['sifat']=='Biasa'? 'B' : ($post['sifat']=='Rahasia'? 'R' : 'T')).'-'.$nomor.'/'.$post['kode_organisasi'].'/'.$post['kode'].'/'.$tahun;
+			} else {
+				$isian['full_kode'] = $nomor.'/'.$post['kode_organisasi'].'/'.$post['kode'].'/'.$tahun;
+			}
+			$full_kodes[] = $isian['full_kode'];
+			$batch[] = $isian;
+		}
+
+		$this->db->insert_batch('no_surat_baru', $batch);
+		return $full_kodes;
+    }
+
 	function tambah($post){
 		$isian =  array(
 					    'sifat' => $post['sifat'],
@@ -68,6 +116,7 @@ class Suratbaru_model extends CI_Model
 					    'tujuan' => $post['tujuan'],
 					    'perihal' => $post['perihal'],
 					    'catatan' => $post['catatan'],
+					    'tipe_tandatangan' => isset($post['tipe_tandatangan']) ? $post['tipe_tandatangan'] : '',
 					    'pembuat' => $this->session->userdata('username'),
 					    'tanggal_surat' => date('Y-m-d', strtotime($post['tanggal'])),
 					    // menghilangkan bulan
@@ -83,22 +132,21 @@ class Suratbaru_model extends CI_Model
 	}
 
     function get_all($data){
-        $this->datatables->select('no_surat_baru.id, sifat, kode_organisasi, nomor, kode, nama_jenis, jenis_surat, kategori1, kategori2, kategori3, kategori4, full_kode, tim_kerja, tujuan, perihal, catatan, tanggal_surat');
+        $this->datatables->select('no_surat_baru.id, sifat, kode_organisasi, nomor, kode, nama_jenis, jenis_surat, kategori1, kategori2, kategori3, kategori4, full_kode, tim_kerja, tujuan, perihal, catatan, tanggal_surat, tipe_tandatangan');
         $this->datatables->from('no_surat_baru');
 		$this->datatables->join('jenis_surat_baru', 'no_surat_baru.jenis_surat = jenis_surat_baru.id', 'left');
 		$jenis = '';
 		if (!$data['jenis'] == "all") $jenis = ' AND jenis_surat = '.$data['jenis'];
         $this->datatables->where('MONTH(tanggal_surat) = '.$data['bulan'].' AND YEAR(tanggal_surat)= '.$data['tahun'].' AND kode_organisasi='.$data['kodeorg'].$jenis);
-        // $this->datatables->add_column('aksi', 'belum tersedia');
         
         $this->datatables->add_column('aksi', '
         <a href="javascript:;" type="button" class="btn-sm btn-warning" data-toggle="modal" data-target="#modal-edit" title="Edit Nomor Surat"
-        data-id="$1" data-fullkode="$2" data-org="$3" data-tim="$4" data-tujuan="$5" data-perihal="$6" data-tanggal="$7" data-catatan="$8"
+        data-id="$1" data-fullkode="$2" data-org="$3" data-tim="$4" data-tujuan="$5" data-perihal="$6" data-tanggal="$7" data-catatan="$8" data-tipetandatangan="$9"
         > <i class="fa fa-edit"> </i></a>
         
         <a href="javascript:;" type="button" class="btn-danger btn-sm" data-toggle="modal" data-target="#modal-konfirmasi" title="Hapus No Surat"
         data-id="$1" data-fullkode="$2"
-        > <i class="fa fa-remove"> </i> </a>', 'id, full_kode, kode_organisasi, tim_kerja, tujuan, perihal, tanggal_surat, catatan');
+        > <i class="fa fa-remove"> </i> </a>', 'id, full_kode, kode_organisasi, tim_kerja, tujuan, perihal, tanggal_surat, catatan, tipe_tandatangan');
         return $this->datatables->generate();
     }
 
@@ -110,10 +158,11 @@ class Suratbaru_model extends CI_Model
     function edit($post_data){
 		if ($post_data) {
             $isian = array (
-                'tim_kerja' => $post_data['tim_kerja_edit'],
-                'tujuan' => $post_data['tujuan_edit'],
-                'perihal' => $post_data['perihal_edit'],
-                'catatan' => $post_data['catatan_edit'],
+                'tim_kerja'        => $post_data['tim_kerja_edit'],
+                'tujuan'           => $post_data['tujuan_edit'],
+                'perihal'          => $post_data['perihal_edit'],
+                'catatan'          => $post_data['catatan_edit'],
+                'tipe_tandatangan' => isset($post_data['tipe_tandatangan_edit']) ? $post_data['tipe_tandatangan_edit'] : '',
             );
 			$this->db->where('id',$post_data['id']);
 			$this->db->update('no_surat_baru',$isian);		    

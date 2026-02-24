@@ -209,6 +209,15 @@ $waktu = explode('-', date("Y-m-d"));
                   <label>Catatan Surat</label>
                   <textarea type="text" name="catatan_edit" class="form-control" id="catatan_edit"></textarea>
                 </div>
+                <div class="form-group">
+                  <label>Tipe Tandatangan</label>
+                  <select name="tipe_tandatangan_edit" id="tipe_tandatangan_edit" class="form-control">
+                    <option value="">-Pilih Tipe Tandatangan-</option>
+                    <option value="Srikandi">Srikandi</option>
+                    <option value="E-TTD">E-TTD</option>
+                    <option value="Basah/Konvensional">Basah/Konvensional</option>
+                  </select>
+                </div>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Batal</button>
@@ -402,6 +411,7 @@ $waktu = explode('-', date("Y-m-d"));
       var tujuan = div.data('tujuan')
       var tanggal_surat = div.data('tanggal')
       var catatan = div.data('catatan')
+      var tipe_tandatangan = div.data('tipetandatangan')
       
       var modal = $(this)
       
@@ -414,6 +424,7 @@ $waktu = explode('-', date("Y-m-d"));
       modal.find('#tujuan_edit').val(tujuan);
       modal.find('#tanggal_edit').val(tanggal_surat);
       modal.find('#catatan_edit').val(catatan);
+      modal.find('#tipe_tandatangan_edit').val(tipe_tandatangan).trigger('change');
     });
   });
 
